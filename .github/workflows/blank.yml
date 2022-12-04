@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Sync to gitlab
+name: Sync to gitee
 
 # Controls when the workflow will run
 on:
@@ -28,6 +28,6 @@ jobs:
       - name: sync-gitee-mirror
         uses: abersheeran/sync-gitee-mirror@v1-beta
         with:
-          repository: abersheeran/sync-gitee-mirror
+          repository: MicroBlock/BetterNCMPluginsMarketData
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}

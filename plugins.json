@@ -2,7 +2,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "0.5",
+        "version": "0.5.1",
         "description": "重新设计的正在播放页面",
         "betterncm_version": "^0.2.5",
         "preview": "preview.jpg",
@@ -10,7 +10,7 @@
             "https://github.com/solstice23"
         ],
         "slug": "Refined-Now-Playing",
-        "update_time": 1670329004,
-        "file": "Refined-Now-Playing-0.5.plugin"
+        "update_time": 1670330196,
+        "file": "Refined-Now-Playing-0.5.1.plugin"
     }
 ]

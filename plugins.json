@@ -7,7 +7,7 @@
         "betterncm_version": ">=0.2.6",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "BGEnhanced-0.1.4.plugin",
         "file-url": "plugins/BGEnhanced-0.1.4.plugin"
     },
@@ -19,7 +19,7 @@
         "betterncm_version": ">=0.2.3",
         "preview": "previews/HideScrollbar.png",
         "slug": "HideScrollbar",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "HideScrollbar-1.0.0.plugin",
         "file-url": "plugins/HideScrollbar-1.0.0.plugin"
     },
@@ -31,7 +31,7 @@
         "betterncm_version": ">=0.2.4",
         "preview": "previews/LiveSongPlayer.png",
         "slug": "LiveSongPlayer",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "LiveSongPlayer-0.1.4.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.4.plugin"
     },
@@ -43,7 +43,7 @@
         "betterncm_version": ">=0.2.4",
         "preview": "previews/MikuPlugin.jpg",
         "slug": "MikuPlugin",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "MikuPlugin-0.0.1.plugin",
         "file-url": "plugins/MikuPlugin-0.0.1.plugin"
     },
@@ -55,7 +55,7 @@
         "betterncm_version": ">=0.2.2",
         "preview": "previews/MoTheme.png",
         "slug": "MoTheme",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "MoTheme-1.1.5.plugin",
         "file-url": "plugins/MoTheme-1.1.5.plugin"
     },
@@ -67,7 +67,7 @@
         "betterncm_version": ">=0.2.3",
         "hide": true,
         "slug": "MoreHooks",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
     },
@@ -79,7 +79,7 @@
         "betterncm_version": ">=0.2.4",
         "preview": "previews/NcmDump.png",
         "slug": "NcmDump",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "NcmDump-1.0.2.plugin",
         "file-url": "plugins/NcmDump-1.0.2.plugin"
     },
@@ -94,9 +94,24 @@
             "https://github.com/solstice23"
         ],
         "slug": "Refined-Now-Playing",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "Refined-Now-Playing-0.5.3.plugin",
         "file-url": "plugins/Refined-Now-Playing-0.5.3.plugin"
+    },
+    {
+        "name": "RefinedNowPlaying",
+        "author": "solstice23",
+        "version": "0.5.3",
+        "description": "重新设计的正在播放页面",
+        "betterncm_version": "^0.2.5",
+        "preview": "previews/RefinedNowPlaying.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "RefinedNowPlaying",
+        "update_time": 1670682053,
+        "file": "RefinedNowPlaying-0.5.3.plugin",
+        "file-url": "plugins/RefinedNowPlaying-0.5.3.plugin"
     },
     {
         "name": "StylesheetLoader",
@@ -106,7 +121,7 @@
         "betterncm_version": ">=0.2.0",
         "hide": true,
         "slug": "StylesheetLoader",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "StylesheetLoader-0.1.1.plugin",
         "file-url": "plugins/StylesheetLoader-0.1.1.plugin"
     },
@@ -117,7 +132,7 @@
         "description": "Transmission主题",
         "preview": "previews/Transmission.png",
         "slug": "Transmission",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "Transmission-0.1.3.plugin",
         "file-url": "plugins/Transmission-0.1.3.plugin"
     },
@@ -129,7 +144,7 @@
         "betterncm_version": "0.2.4",
         "preview": "previews/UnblockCloudMusic.png",
         "slug": "UnblockCloudMusic",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "UnblockCloudMusic-0.1.7.plugin",
         "file-url": "plugins/UnblockCloudMusic-0.1.7.plugin"
     },
@@ -141,7 +156,7 @@
         "betterncm_version": ">=0.2.0",
         "preview": "previews/Unbounded.png",
         "slug": "Unbounded",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "Unbounded-0.1.0.plugin",
         "file-url": "plugins/Unbounded-0.1.0.plugin"
     },
@@ -152,7 +167,7 @@
         "description": "可视化听歌排行，在个人主页-听歌排行内查看",
         "preview": "previews/VisualRecord.png",
         "slug": "VisualRecord",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "VisualRecord-1.0.0.plugin",
         "file-url": "plugins/VisualRecord-1.0.0.plugin"
     },
@@ -164,7 +179,7 @@
         "betterncm_version": "^0.2.5",
         "preview": "previews/actionEnhancement.png",
         "slug": "actionEnhancement",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "actionEnhancement-0.1.1.plugin",
         "file-url": "plugins/actionEnhancement-0.1.1.plugin"
     },
@@ -176,7 +191,7 @@
         "betterncm_version": ">=0.2.0",
         "preview": "previews/microrange.png",
         "slug": "microrange",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "microrange-0.1.0.plugin",
         "file-url": "plugins/microrange-0.1.0.plugin"
     },
@@ -187,7 +202,7 @@
         "description": "[被取代] 精简网易云音乐，删除多余内容（可配置）",
         "preview": "previews/tinyncm.png",
         "slug": "tinyncm",
-        "update_time": 1670426470,
+        "update_time": 1670682053,
         "file": "tinyncm-0.1.0.plugin",
         "file-url": "plugins/tinyncm-0.1.0.plugin"
     }

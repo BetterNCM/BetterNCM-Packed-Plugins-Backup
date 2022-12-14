@@ -1,5 +1,17 @@
 [
     {
+        "name": "ActionEnhancement",
+        "author": "MicroBlock",
+        "version": "0.1.2",
+        "description": "右键下载打开歌曲，右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
+        "betterncm_version": "^0.2.5",
+        "slug": "ActionEnhancement",
+        "update_time": 1670980621,
+        "repo": "BetterNCM/ActionEnhancement",
+        "file": "ActionEnhancement-0.1.2.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.2.plugin"
+    },
+    {
         "name": "BGEnhanced",
         "author": "MicroBlock",
         "version": "0.1.5",

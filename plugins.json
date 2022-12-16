@@ -104,6 +104,7 @@
         "author_links": [
             "https://github.com/solstice23"
         ],
+        "type": "extension",
         "slug": "RefinedNowPlaying",
         "update_time": 1671107405,
         "file": "RefinedNowPlaying-0.6.0.plugin",
@@ -115,9 +116,9 @@
         "version": "0.1.1",
         "description": "依赖库 用于统一加载样式表",
         "betterncm_version": ">=0.2.0",
-        "hide": true,
+        "type": "lib",
         "slug": "StylesheetLoader",
-        "update_time": 1670425948,
+        "update_time": 1671194414,
         "file": "StylesheetLoader-0.1.1.plugin",
         "file-url": "plugins/StylesheetLoader-0.1.1.plugin"
     },

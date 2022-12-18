@@ -104,7 +104,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "0.6.1",
+        "version": "0.6.2",
         "description": "重新设计的正在播放页面",
         "requirements": [],
         "betterncm_version": "^0.2.5",
@@ -113,9 +113,9 @@
         ],
         "type": "extension",
         "slug": "RefinedNowPlaying",
-        "update_time": 1671398969,
-        "file": "RefinedNowPlaying-0.6.1.plugin",
-        "file-url": "plugins/RefinedNowPlaying-0.6.1.plugin"
+        "update_time": 1671399399,
+        "file": "RefinedNowPlaying-0.6.2.plugin",
+        "file-url": "plugins/RefinedNowPlaying-0.6.2.plugin"
     },
     {
         "name": "StylesheetLoader",

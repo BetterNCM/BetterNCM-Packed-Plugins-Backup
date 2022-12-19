@@ -108,6 +108,7 @@
         "description": "重新设计的正在播放页面",
         "requirements": [],
         "betterncm_version": "^0.2.5",
+        "preview": "previews/RefinedNowPlaying.jpg",
         "author_links": [
             "https://github.com/solstice23"
         ],

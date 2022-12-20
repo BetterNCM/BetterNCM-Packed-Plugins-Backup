@@ -50,6 +50,23 @@
         "file-url": "plugins/LiveSongPlayer-0.1.4.plugin"
     },
     {
+        "name": "Material You",
+        "author": "solstice23",
+        "version": "0.0.1",
+        "description": "Material You 主题",
+        "requirements": [],
+        "betterncm_version": "^0.2.5",
+        "preview": "previews/MaterialYouTheme.jpg",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "theme",
+        "slug": "MaterialYouTheme",
+        "update_time": 1671567641,
+        "file": "MaterialYouTheme-0.0.1.plugin",
+        "file-url": "plugins/MaterialYouTheme-0.0.1.plugin"
+    },
+    {
         "name": "miku-plugin",
         "author": "小岩喵",
         "version": "0.0.1",

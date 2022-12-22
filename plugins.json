@@ -52,7 +52,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "Material You 主题",
         "requirements": [],
         "betterncm_version": "^0.2.5",
@@ -62,9 +62,9 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1671648106,
-        "file": "MaterialYouTheme-1.0.0.plugin",
-        "file-url": "plugins/MaterialYouTheme-1.0.0.plugin"
+        "update_time": 1671686016,
+        "file": "MaterialYouTheme-1.0.1.plugin",
+        "file-url": "plugins/MaterialYouTheme-1.0.1.plugin"
     },
     {
         "name": "miku-plugin",

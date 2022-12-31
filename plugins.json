@@ -109,6 +109,7 @@
         "type": "theme",
         "slug": "MoTheme",
         "update_time": 1671303424,
+        "repo": "mo-jinran/MoTheme",
         "file": "MoTheme-1.1.5.plugin",
         "file-url": "plugins/MoTheme-1.1.5.plugin"
     },
@@ -133,6 +134,7 @@
         "preview": "previews/NcmDump.png",
         "slug": "NcmDump",
         "update_time": 1670425948,
+        "repo": "mo-jinran/NcmDump",
         "file": "NcmDump-1.0.2.plugin",
         "file-url": "plugins/NcmDump-1.0.2.plugin"
     },
@@ -228,8 +230,21 @@
         "preview": "previews/VisualRecord.png",
         "slug": "VisualRecord",
         "update_time": 1670425948,
+        "repo": "mo-jinran/VisualRecord",
         "file": "VisualRecord-1.0.0.plugin",
         "file-url": "plugins/VisualRecord-1.0.0.plugin"
+    },
+    {
+        "name": "What is the cover of this music",
+        "author": "沫烬染",
+        "version": "1.0.1",
+        "description": "BetterNCM插件，给歌曲列表添加音乐封面",
+        "preview": "previews/What-is-the-cover-of-this-music.png",
+        "slug": "What-is-the-cover-of-this-music",
+        "update_time": 1672504198,
+        "repo": "mo-jinran/What-is-the-cover-of-this-music",
+        "file": "What-is-the-cover-of-this-music-1.0.1.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-1.0.1.plugin"
     },
     {
         "name": "Microrange",

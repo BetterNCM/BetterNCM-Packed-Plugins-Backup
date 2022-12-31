@@ -152,6 +152,19 @@
         "file-url": "plugins/RefinedNowPlaying-0.6.5.plugin"
     },
     {
+        "name": "RoundCornerNCM",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "网易云窗口圆角。仅Win11。",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/RoundCornerNCM.png",
+        "slug": "RoundCornerNCM",
+        "update_time": 1672515583,
+        "repo": "BetterNCM/RoundCornerNCM",
+        "file": "RoundCornerNCM-0.1.0.plugin",
+        "file-url": "plugins/RoundCornerNCM-0.1.0.plugin"
+    },
+    {
         "name": "StylesheetLoader",
         "author": "MicroBlock",
         "version": "0.1.1",

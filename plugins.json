@@ -32,14 +32,14 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.1.7",
+        "version": "0.1.8",
         "description": "随意自定义你的网易云背景图！",
-        "betterncm_version": "*",
+        "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1672508191,
-        "file": "BGEnhanced-0.1.7.plugin",
-        "file-url": "plugins/BGEnhanced-0.1.7.plugin"
+        "update_time": 1672508496,
+        "file": "BGEnhanced-0.1.8.plugin",
+        "file-url": "plugins/BGEnhanced-0.1.8.plugin"
     },
     {
         "name": "HideScrollbar",

@@ -99,19 +99,14 @@
     {
         "name": "MoTheme",
         "author": "沫烬染",
-        "version": "1.1.5",
-        "description": "主题插件，添加打开/关闭播放界面的过渡动画，修复了评论按钮",
-        "requirements": [
-            "StylesheetLoader"
-        ],
-        "betterncm_version": ">=0.2.2",
+        "version": "1.1.8",
+        "description": "BetterNCM插件，主题插件，用于美化网易云音乐",
         "preview": "previews/MoTheme.png",
-        "type": "theme",
         "slug": "MoTheme",
-        "update_time": 1671303424,
+        "update_time": 1672504193,
         "repo": "mo-jinran/MoTheme",
-        "file": "MoTheme-1.1.5.plugin",
-        "file-url": "plugins/MoTheme-1.1.5.plugin"
+        "file": "MoTheme-1.1.8.plugin",
+        "file-url": "plugins/MoTheme-1.1.8.plugin"
     },
     {
         "name": "MoreHooks",

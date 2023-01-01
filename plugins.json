@@ -246,14 +246,18 @@
     {
         "name": "What is the cover of this music",
         "author": "沫烬染",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "BetterNCM插件，给歌曲列表添加音乐封面",
         "preview": "previews/What-is-the-cover-of-this-music.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1672504198,
+        "update_time": 1672557166,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "file": "What-is-the-cover-of-this-music-1.0.1.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-1.0.1.plugin"
+        "file": "What-is-the-cover-of-this-music-1.0.2.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-1.0.2.plugin"
     },
     {
         "name": "Microrange",

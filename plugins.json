@@ -181,6 +181,18 @@
         "file-url": "plugins/RoundCornerNCM-0.1.1.plugin"
     },
     {
+        "name": "StyleSnippet",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "betterncm_version": ">=0.2.5",
+        "preview": "previews/StyleSnippet.png",
+        "slug": "StyleSnippet",
+        "update_time": 1672601649,
+        "repo": "BetterNCM/StyleSnippet",
+        "file": "StyleSnippet-0.1.0.plugin",
+        "file-url": "plugins/StyleSnippet-0.1.0.plugin"
+    },
+    {
         "name": "StylesheetLoader",
         "author": "MicroBlock",
         "version": "0.1.1",

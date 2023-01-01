@@ -27,6 +27,7 @@
         "type": "extension",
         "slug": "Apple-Musiclike-Lyrics",
         "update_time": 1672497582,
+        "repo": "Steve-xmh/applemusic-like-lyrics",
         "file": "Apple-Musiclike-Lyrics-1.0.0.plugin",
         "file-url": "plugins/Apple-Musiclike-Lyrics-1.0.0.plugin"
     },
@@ -39,6 +40,7 @@
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
         "update_time": 1672550888,
+        "repo": "BetterNCM/BGEnhanced",
         "file": "BGEnhanced-0.1.9.plugin",
         "file-url": "plugins/BGEnhanced-0.1.9.plugin"
     },
@@ -84,6 +86,7 @@
         "type": "theme",
         "slug": "MaterialYouTheme",
         "update_time": 1672564096,
+        "repo": "solstice23/material-you-theme-netease",
         "file": "MaterialYouTheme-1.0.4.plugin",
         "file-url": "plugins/MaterialYouTheme-1.0.4.plugin"
     },
@@ -160,6 +163,7 @@
         "type": "extension",
         "slug": "RefinedNowPlaying",
         "update_time": 1672510608,
+        "repo": "solstice23/refined-now-playing-netease",
         "file": "RefinedNowPlaying-0.6.5.plugin",
         "file-url": "plugins/RefinedNowPlaying-0.6.5.plugin"
     },
@@ -197,6 +201,7 @@
         "preview": "previews/TinyNCM.png",
         "slug": "TinyNCM",
         "update_time": 1672509481,
+        "repo": "BetterNCM/TinyNCM",
         "file": "TinyNCM-0.2.3.plugin",
         "file-url": "plugins/TinyNCM-0.2.3.plugin"
     },

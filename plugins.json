@@ -125,14 +125,18 @@
     {
         "name": "NcmDump",
         "author": "沫烬染",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "description": "使用NcmDump程序转换ncm文件为flac，mp3（带有特殊符号的文件名不行",
         "preview": "previews/NcmDump.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "extension",
         "slug": "NcmDump",
-        "update_time": 1672504195,
+        "update_time": 1672557160,
         "repo": "mo-jinran/NcmDump",
-        "file": "NcmDump-1.0.3.plugin",
-        "file-url": "plugins/NcmDump-1.0.3.plugin"
+        "file": "NcmDump-1.0.4.plugin",
+        "file-url": "plugins/NcmDump-1.0.4.plugin"
     },
     {
         "name": "RefinedNowPlaying",

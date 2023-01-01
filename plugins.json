@@ -101,14 +101,21 @@
     {
         "name": "MoTheme",
         "author": "沫烬染",
-        "version": "1.1.8",
+        "version": "1.1.9",
         "description": "BetterNCM插件，主题插件，用于美化网易云音乐",
+        "requirements": [
+            "StylesheetLoader"
+        ],
         "preview": "previews/MoTheme.png",
+        "author_links": [
+            "https://github.com/mo-jinran"
+        ],
+        "type": "theme",
         "slug": "MoTheme",
-        "update_time": 1672504193,
+        "update_time": 1672557158,
         "repo": "mo-jinran/MoTheme",
-        "file": "MoTheme-1.1.8.plugin",
-        "file-url": "plugins/MoTheme-1.1.8.plugin"
+        "file": "MoTheme-1.1.9.plugin",
+        "file-url": "plugins/MoTheme-1.1.9.plugin"
     },
     {
         "name": "MoreHooks",

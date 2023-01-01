@@ -72,19 +72,19 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "1.0.3",
-        "description": "Material You 主题",
+        "version": "1.0.4",
+        "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
-        "preview": "previews/MaterialYouTheme.jpg",
+        "preview": "previews/MaterialYouTheme.gif",
         "author_links": [
             "https://github.com/solstice23"
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1672509793,
-        "file": "MaterialYouTheme-1.0.3.plugin",
-        "file-url": "plugins/MaterialYouTheme-1.0.3.plugin"
+        "update_time": 1672564096,
+        "file": "MaterialYouTheme-1.0.4.plugin",
+        "file-url": "plugins/MaterialYouTheme-1.0.4.plugin"
     },
     {
         "name": "miku-plugin",

@@ -45,7 +45,7 @@
     {
         "name": "HideScrollbar",
         "author": "Zinc",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "description": "隐藏滚动条(没什么用的东西)",
         "preview": "previews/HideScrollbar.png",
         "author_links": [
@@ -53,10 +53,10 @@
         ],
         "type": "extension",
         "slug": "HideScrollbar",
-        "update_time": 1672584911,
+        "update_time": 1672586046,
         "repo": "RingZc/HideScrollbar",
-        "file": "HideScrollbar-2.0.0.plugin",
-        "file-url": "plugins/HideScrollbar-2.0.0.plugin"
+        "file": "HideScrollbar-2.0.1.plugin",
+        "file-url": "plugins/HideScrollbar-2.0.1.plugin"
     },
     {
         "name": "LiveSongPlayer",

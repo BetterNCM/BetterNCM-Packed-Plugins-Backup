@@ -2,15 +2,15 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "description": "右键下载打开歌曲，右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
         "slug": "ActionEnhancement",
-        "update_time": 1672509788,
+        "update_time": 1672550881,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.3.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.3.plugin"
+        "file": "ActionEnhancement-0.1.4.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.4.plugin"
     },
     {
         "name": "Apple Music-like lyrics",
@@ -154,15 +154,15 @@
     {
         "name": "RoundCornerNCM",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "网易云窗口圆角。仅Win11。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/RoundCornerNCM.png",
         "slug": "RoundCornerNCM",
-        "update_time": 1672515583,
+        "update_time": 1672550884,
         "repo": "BetterNCM/RoundCornerNCM",
-        "file": "RoundCornerNCM-0.1.0.plugin",
-        "file-url": "plugins/RoundCornerNCM-0.1.0.plugin"
+        "file": "RoundCornerNCM-0.1.1.plugin",
+        "file-url": "plugins/RoundCornerNCM-0.1.1.plugin"
     },
     {
         "name": "StylesheetLoader",

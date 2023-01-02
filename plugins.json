@@ -25,7 +25,7 @@
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
         ],
         "type": "extension",
-        "slug": "Apple-Musiclike-Lyrics",
+        "slug": "Apple-Musiclike-lyrics",
         "update_time": 1672634951,
         "repo": "Steve-xmh/applemusic-like-lyrics",
         "file": "Apple-Musiclike-Lyrics-1.0.0.plugin",
@@ -239,7 +239,7 @@
         "description": "一键安装网易云解灰",
         "betterncm_version": "0.2.4",
         "preview": "previews/UnblockCloudMusic.png",
-        "slug": "UnblockCloudMusic",
+        "slug": "UnblockCloudMusicInstaller",
         "update_time": 1670425948,
         "file": "UnblockCloudMusic-0.1.7.plugin",
         "file-url": "plugins/UnblockCloudMusic-0.1.7.plugin"
@@ -303,7 +303,7 @@
         "betterncm_version": ">=0.2.0",
         "preview": "previews/microrange.png",
         "type": "theme",
-        "slug": "microrange",
+        "slug": "Microrange",
         "update_time": 1671303424,
         "file": "microrange-0.1.0.plugin",
         "file-url": "plugins/microrange-0.1.0.plugin"

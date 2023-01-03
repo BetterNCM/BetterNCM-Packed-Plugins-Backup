@@ -25,6 +25,9 @@
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
         ],
         "type": "extension",
+        "incompatible": [
+            "RefinedNowPlaying"
+        ],
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1672749004,
         "repo": "Steve-xmh/applemusic-like-lyrics",

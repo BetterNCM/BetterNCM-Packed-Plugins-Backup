@@ -19,7 +19,7 @@
         "description": "一个基于 BetterNCM 的类 Apple Music 歌词显示插件",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/Apple-Musiclike-Lyrics.svg",
+        "preview": "previews/Apple-Musiclike-lyrics.svg",
         "author_links": [
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
@@ -29,8 +29,8 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1673082808,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "file": "Apple-Musiclike-Lyrics-1.4.0.plugin",
-        "file-url": "plugins/Apple-Musiclike-Lyrics-1.4.0.plugin"
+        "file": "Apple-Musiclike-lyrics-1.4.0.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-1.4.0.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -223,11 +223,11 @@
         "version": "0.1.7",
         "description": "一键安装网易云解灰",
         "betterncm_version": "0.2.4",
-        "preview": "previews/UnblockCloudMusic.png",
+        "preview": "previews/UnblockCloudMusicInstaller.png",
         "slug": "UnblockCloudMusicInstaller",
         "update_time": 1670425948,
-        "file": "UnblockCloudMusic-0.1.7.plugin",
-        "file-url": "plugins/UnblockCloudMusic-0.1.7.plugin"
+        "file": "UnblockCloudMusicInstaller-0.1.7.plugin",
+        "file-url": "plugins/UnblockCloudMusicInstaller-0.1.7.plugin"
     },
     {
         "name": "Unbounded",
@@ -286,11 +286,11 @@
             "StylesheetLoader"
         ],
         "betterncm_version": ">=0.2.0",
-        "preview": "previews/microrange.png",
+        "preview": "previews/Microrange.png",
         "type": "theme",
         "slug": "Microrange",
         "update_time": 1671303424,
-        "file": "microrange-0.1.0.plugin",
-        "file-url": "plugins/microrange-0.1.0.plugin"
+        "file": "Microrange-0.1.0.plugin",
+        "file-url": "plugins/Microrange-0.1.0.plugin"
     }
 ]

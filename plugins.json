@@ -62,6 +62,18 @@
         "file-url": "plugins/HideScrollbar-2.0.2.plugin"
     },
     {
+        "name": "InfLink",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/InfLink.png",
+        "slug": "InfLink",
+        "update_time": 1673372080,
+        "repo": "BetterNCM/InfinityLink",
+        "file": "InfLink-0.1.0.plugin",
+        "file-url": "plugins/InfLink-0.1.0.plugin"
+    },
+    {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
         "version": "0.1.4",

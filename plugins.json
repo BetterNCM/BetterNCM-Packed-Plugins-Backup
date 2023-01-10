@@ -64,14 +64,15 @@
     {
         "name": "InfLink",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
+        "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLink.png",
         "slug": "InfLink",
-        "update_time": 1673372080,
+        "update_time": 1673373212,
         "repo": "BetterNCM/InfinityLink",
-        "file": "InfLink-0.1.0.plugin",
-        "file-url": "plugins/InfLink-0.1.0.plugin"
+        "file": "InfLink-0.1.1.plugin",
+        "file-url": "plugins/InfLink-0.1.1.plugin"
     },
     {
         "name": "LiveSongPlayer",

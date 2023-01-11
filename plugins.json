@@ -48,15 +48,15 @@
     {
         "name": "FluentProgressBar",
         "author": "MicroBlock & Solstice23",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "让你的进度条更顺滑！",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentProgressBar.png",
         "slug": "FluentProgressBar",
-        "update_time": 1673458219,
+        "update_time": 1673468172,
         "repo": "BetterNCM/FluentProgessBar",
-        "file": "FluentProgressBar-0.1.0.plugin",
-        "file-url": "plugins/FluentProgressBar-0.1.0.plugin"
+        "file": "FluentProgressBar-0.1.1.plugin",
+        "file-url": "plugins/FluentProgressBar-0.1.1.plugin"
     },
     {
         "name": "HideScrollbar",

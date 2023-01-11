@@ -46,6 +46,19 @@
         "file-url": "plugins/BGEnhanced-0.1.9.plugin"
     },
     {
+        "name": "FluentProgressBar",
+        "author": "MicroBlock & Solstice23",
+        "version": "0.1.0",
+        "description": "让你的进度条更顺滑！",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentProgressBar.png",
+        "slug": "FluentProgressBar",
+        "update_time": 1673458219,
+        "repo": "BetterNCM/FluentProgessBar",
+        "file": "FluentProgressBar-0.1.0.plugin",
+        "file-url": "plugins/FluentProgressBar-0.1.0.plugin"
+    },
+    {
         "name": "HideScrollbar",
         "author": "Zinc",
         "version": "2.0.2",

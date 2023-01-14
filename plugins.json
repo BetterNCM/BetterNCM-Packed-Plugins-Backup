@@ -88,6 +88,18 @@
         "file-url": "plugins/InfLink-0.1.5.plugin"
     },
     {
+        "name": "LibFrontendPlay",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "在前端播放音乐，而不是 C++ 后端！\n喵喵喵喵喵喵喵喵",
+        "betterncm_version": ">=1.0.0",
+        "slug": "LibFrontendPlay",
+        "update_time": 1673713536,
+        "repo": "BetterNCM/LibFrontendPlay",
+        "file": "LibFrontendPlay-0.1.0.plugin",
+        "file-url": "plugins/LibFrontendPlay-0.1.0.plugin"
+    },
+    {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
         "version": "0.1.4",

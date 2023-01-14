@@ -210,23 +210,23 @@
         "file-url": "plugins/RoundCornerNCM-0.1.1.plugin"
     },
     {
-        "name": "简单音频可视化",
+        "name": "SimpleAudioVisualizer",
         "author": "MicroBlock & woshizja",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "在播放页面显示音频可视化视效！",
         "requirements": [
             "LibFrontendPlay"
         ],
-        "betterncm_version": ">= 1.0.0",
+        "betterncm_version": ">=1.0.0",
         "preview": "previews/SimpleAudioVisualizer.png",
         "author_links": [
             "https://github.com/woshizja/sound-processor"
         ],
         "slug": "SimpleAudioVisualizer",
-        "update_time": 1673713908,
+        "update_time": 1673714286,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "file": "SimpleAudioVisualizer-0.1.0.plugin",
-        "file-url": "plugins/SimpleAudioVisualizer-0.1.0.plugin"
+        "file": "SimpleAudioVisualizer-0.1.1.plugin",
+        "file-url": "plugins/SimpleAudioVisualizer-0.1.1.plugin"
     },
     {
         "name": "StyleSnippet",

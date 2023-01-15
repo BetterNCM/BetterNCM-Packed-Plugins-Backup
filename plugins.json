@@ -114,7 +114,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -124,10 +124,10 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1673728635,
+        "update_time": 1673770711,
         "repo": "solstice23/material-you-theme-netease",
-        "file": "MaterialYouTheme-1.2.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-1.2.1.plugin"
+        "file": "MaterialYouTheme-1.2.2.plugin",
+        "file-url": "plugins/MaterialYouTheme-1.2.2.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -150,8 +150,8 @@
     {
         "name": "MoTheme",
         "author": "沫烬染",
-        "version": "1.1.10",
-        "description": "BetterNCM插件，主题插件，用于美化网易云音乐（更新于1月2日）",
+        "version": "1.1.11",
+        "description": "BetterNCM插件，主题插件，用于美化网易云音乐",
         "requirements": [
             "StylesheetLoader"
         ],
@@ -161,10 +161,10 @@
         ],
         "type": "theme",
         "slug": "MoTheme",
-        "update_time": 1672589955,
+        "update_time": 1673770704,
         "repo": "mo-jinran/MoTheme",
-        "file": "MoTheme-1.1.10.plugin",
-        "file-url": "plugins/MoTheme-1.1.10.plugin"
+        "file": "MoTheme-1.1.11.plugin",
+        "file-url": "plugins/MoTheme-1.1.11.plugin"
     },
     {
         "name": "MoreHooks",

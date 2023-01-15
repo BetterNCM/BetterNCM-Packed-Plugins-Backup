@@ -212,7 +212,7 @@
     {
         "name": "SimpleAudioVisualizer",
         "author": "MicroBlock & woshizja",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "在播放页面显示音频可视化视效！",
         "requirements": [
             "LibFrontendPlay"
@@ -223,10 +223,10 @@
             "https://github.com/woshizja/sound-processor"
         ],
         "slug": "SimpleAudioVisualizer",
-        "update_time": 1673714286,
+        "update_time": 1673766763,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "file": "SimpleAudioVisualizer-0.1.1.plugin",
-        "file-url": "plugins/SimpleAudioVisualizer-0.1.1.plugin"
+        "file": "SimpleAudioVisualizer-0.1.2.plugin",
+        "file-url": "plugins/SimpleAudioVisualizer-0.1.2.plugin"
     },
     {
         "name": "StyleSnippet",

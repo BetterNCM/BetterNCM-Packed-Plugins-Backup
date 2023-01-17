@@ -108,8 +108,19 @@
         "preview": "previews/LiveSongPlayer.png",
         "slug": "LiveSongPlayer",
         "update_time": 1670425948,
+        "repo": "MicroCBer/LiveSongPlayer-MKII",
         "file": "LiveSongPlayer-0.1.4.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.4.plugin"
+    },
+    {
+        "name": "LiveSongPlayer",
+        "author": "MicroBlock",
+        "version": "0.1.5",
+        "slug": "LiveSongPlayer",
+        "update_time": 1673944958,
+        "repo": "MicroCBer/LiveSongPlayer-MKII",
+        "file": "LiveSongPlayer-0.1.5.plugin",
+        "file-url": "plugins/LiveSongPlayer-0.1.5.plugin"
     },
     {
         "name": "Material You",

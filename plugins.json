@@ -102,19 +102,6 @@
     {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
-        "version": "0.1.4",
-        "description": "(仅 2.10.6) 可配置，简单易用的B站点歌姬",
-        "betterncm_version": ">=0.2.4",
-        "preview": "previews/LiveSongPlayer.png",
-        "slug": "LiveSongPlayer",
-        "update_time": 1670425948,
-        "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "file": "LiveSongPlayer-0.1.4.plugin",
-        "file-url": "plugins/LiveSongPlayer-0.1.4.plugin"
-    },
-    {
-        "name": "LiveSongPlayer",
-        "author": "MicroBlock",
         "version": "0.1.5",
         "slug": "LiveSongPlayer",
         "update_time": 1673944958,

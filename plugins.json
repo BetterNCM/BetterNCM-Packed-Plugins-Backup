@@ -35,15 +35,14 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.1.9",
-        "description": "随意自定义你的网易云背景图！",
+        "version": "0.2.1",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1672550888,
+        "update_time": 1674320862,
         "repo": "BetterNCM/BGEnhanced",
-        "file": "BGEnhanced-0.1.9.plugin",
-        "file-url": "plugins/BGEnhanced-0.1.9.plugin"
+        "file": "BGEnhanced-0.2.1.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.1.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -175,22 +174,6 @@
         "update_time": 1670425948,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
-    },
-    {
-        "name": "NcmDump",
-        "author": "沫烬染",
-        "version": "1.0.5",
-        "description": "使用NcmDump程序转换ncm文件为flac，mp3（带有特殊符号的文件名不行",
-        "preview": "previews/NcmDump.png",
-        "author_links": [
-            "https://github.com/mo-jinran"
-        ],
-        "type": "extension",
-        "slug": "NcmDump",
-        "update_time": 1674296768,
-        "repo": "mo-jinran/NcmDump",
-        "file": "NcmDump-1.0.5.plugin",
-        "file-url": "plugins/NcmDump-1.0.5.plugin"
     },
     {
         "name": "RefinedNowPlaying",

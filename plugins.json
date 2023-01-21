@@ -253,18 +253,18 @@
     {
         "name": "Taskbar Lyrics",
         "author": "沫烬染",
-        "version": "1.0.4",
-        "description": "在任务栏上嵌入歌词，目前仅支持Windows 11，任务栏对齐方式为居中",
+        "version": "1.1.0",
+        "description": "在任务栏上嵌入歌词，目前仅支持Windows 11 22H2",
         "preview": "previews/Taskbar-Lyrics.png",
         "author_links": [
             "https://github.com/mo-jinran"
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1673889236,
+        "update_time": 1674234859,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "file": "Taskbar-Lyrics-1.0.4.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.0.4.plugin"
+        "file": "Taskbar-Lyrics-1.1.0.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.1.0.plugin"
     },
     {
         "name": "TinyNCM",

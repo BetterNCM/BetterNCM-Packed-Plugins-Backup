@@ -102,12 +102,12 @@
     {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "slug": "LiveSongPlayer",
-        "update_time": 1673944958,
+        "update_time": 1674231691,
         "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "file": "LiveSongPlayer-0.1.5.plugin",
-        "file-url": "plugins/LiveSongPlayer-0.1.5.plugin"
+        "file": "LiveSongPlayer-0.1.6.plugin",
+        "file-url": "plugins/LiveSongPlayer-0.1.6.plugin"
     },
     {
         "name": "Material You",

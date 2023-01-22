@@ -99,6 +99,46 @@
         "file-url": "plugins/LibFrontendPlay-0.1.0.plugin"
     },
     {
+        "name": "LibLyric",
+        "author": "SteveXMH",
+        "version": "1.0.0",
+        "description": "向其他插件提供歌曲歌词和解析歌词的能力",
+        "requirements": [
+            "LibEAPIRequest"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/LibLyric"
+        ],
+        "type": "framework",
+        "incompatible": [],
+        "slug": "liblyric",
+        "update_time": 1674374363,
+        "repo": "Steve-xmh/LibLyric",
+        "file": "liblyric-1.0.0.plugin",
+        "file-url": "plugins/liblyric-1.0.0.plugin"
+    },
+    {
+        "name": "LibSongInfo",
+        "author": "SteveXMH",
+        "version": "1.0.0",
+        "description": "获取当前播放音乐信息的依赖库",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/LibSongInfo"
+        ],
+        "type": "framework",
+        "incompatible": [],
+        "slug": "libsonginfo",
+        "update_time": 1674374336,
+        "repo": "Steve-xmh/LibSongInfo",
+        "file": "libsonginfo-1.0.0.plugin",
+        "file-url": "plugins/libsonginfo-1.0.0.plugin"
+    },
+    {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
         "version": "0.1.6",

@@ -247,6 +247,25 @@
         "file-url": "plugins/RoundCornerNCM-0.1.1.plugin"
     },
     {
+        "name": "RuLyrics",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "description",
+        "requirements": [
+            "libsonginfo"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RuLyrics.png",
+        "author_links": [
+            "https://github.com/MicroCBer"
+        ],
+        "slug": "RuLyrics",
+        "update_time": 1674390502,
+        "repo": "BetterNCM/RuLyric",
+        "file": "RuLyrics-0.1.0.plugin",
+        "file-url": "plugins/RuLyrics-0.1.0.plugin"
+    },
+    {
         "name": "SimpleAudioVisualizer",
         "author": "MicroBlock & woshizja",
         "version": "0.1.2",

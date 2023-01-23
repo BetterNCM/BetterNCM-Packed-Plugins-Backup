@@ -249,10 +249,10 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "description",
         "requirements": [
-            "libsonginfo"
+            "liblyric"
         ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RuLyrics.png",
@@ -260,10 +260,10 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1674390502,
+        "update_time": 1674443772,
         "repo": "BetterNCM/RuLyric",
-        "file": "RuLyrics-0.1.0.plugin",
-        "file-url": "plugins/RuLyrics-0.1.0.plugin"
+        "file": "RuLyrics-0.1.1.plugin",
+        "file-url": "plugins/RuLyrics-0.1.1.plugin"
     },
     {
         "name": "SimpleAudioVisualizer",

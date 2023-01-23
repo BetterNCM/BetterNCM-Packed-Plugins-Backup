@@ -83,6 +83,7 @@
         "slug": "InfLink",
         "update_time": 1673440532,
         "repo": "BetterNCM/InfinityLink",
+        "native": true,
         "file": "InfLink-0.1.5.plugin",
         "file-url": "plugins/InfLink-0.1.5.plugin"
     },
@@ -282,6 +283,7 @@
         "slug": "RuLyrics",
         "update_time": 1674443772,
         "repo": "BetterNCM/RuLyric",
+        "native": true,
         "file": "RuLyrics-0.1.1.plugin",
         "file-url": "plugins/RuLyrics-0.1.1.plugin"
     },

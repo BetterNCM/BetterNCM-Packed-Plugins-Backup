@@ -87,6 +87,25 @@
         "file-url": "plugins/InfLink-0.1.5.plugin"
     },
     {
+        "name": "LibEAPIRequest",
+        "author": "SteveXMH",
+        "version": "1.6.2",
+        "description": "LibEAPIRequest",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/BetterNCM/LibEAPIRequest"
+        ],
+        "type": "extension",
+        "incompatible": [],
+        "slug": "LibEAPIRequest",
+        "update_time": 1674485753,
+        "repo": "BetterNCM/LibEAPIRequest",
+        "file": "LibEAPIRequest-1.6.2.plugin",
+        "file-url": "plugins/LibEAPIRequest-1.6.2.plugin"
+    },
+    {
         "name": "LibFrontendPlay",
         "author": "MicroBlock",
         "version": "0.1.0",

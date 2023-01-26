@@ -171,7 +171,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.0.2",
+        "version": "2.0.3",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -181,10 +181,10 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1674594782,
+        "update_time": 1674764103,
         "repo": "solstice23/material-you-theme-netease",
-        "file": "MaterialYouTheme-2.0.2.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.0.2.plugin"
+        "file": "MaterialYouTheme-2.0.3.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.0.3.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -239,7 +239,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "description": "重新设计的正在播放页面",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -249,10 +249,10 @@
         ],
         "type": "extension",
         "slug": "RefinedNowPlaying",
-        "update_time": 1674600227,
+        "update_time": 1674764108,
         "repo": "solstice23/refined-now-playing-netease",
-        "file": "RefinedNowPlaying-1.2.0.plugin",
-        "file-url": "plugins/RefinedNowPlaying-1.2.0.plugin"
+        "file": "RefinedNowPlaying-1.2.1.plugin",
+        "file-url": "plugins/RefinedNowPlaying-1.2.1.plugin"
     },
     {
         "name": "RoundCornerNCM",

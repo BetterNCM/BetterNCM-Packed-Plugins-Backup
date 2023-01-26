@@ -35,14 +35,14 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.6",
+        "version": "0.2.7",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1674659751,
+        "update_time": 1674734642,
         "repo": "BetterNCM/BGEnhanced",
-        "file": "BGEnhanced-0.2.6.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.6.plugin"
+        "file": "BGEnhanced-0.2.7.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.7.plugin"
     },
     {
         "name": "FluentProgressBar",

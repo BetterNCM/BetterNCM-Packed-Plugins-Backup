@@ -419,20 +419,20 @@
         "file-url": "plugins/VisualRecord-1.0.1.plugin"
     },
     {
-        "name": "What is the cover of this music",
+        "name": "这首歌的封面是什么？",
         "author": "沫烬染",
-        "version": "2.0.3",
-        "description": "歌曲列表添加音乐封面，位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
+        "version": "2.0.4",
+        "description": "歌曲列表添加音乐封面。位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
         "preview": "previews/What-is-the-cover-of-this-music.png",
         "author_links": [
             "https://github.com/mo-jinran"
         ],
         "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1674302005,
+        "update_time": 1674832554,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "file": "What-is-the-cover-of-this-music-2.0.3.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.3.plugin"
+        "file": "What-is-the-cover-of-this-music-2.0.4.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.4.plugin"
     },
     {
         "name": "Microrange",

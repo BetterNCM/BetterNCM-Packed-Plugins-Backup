@@ -242,7 +242,7 @@
         "version": "2.0.0",
         "description": "重新设计的正在播放页面 | 流体背景 | 逐字歌词 | 弹性歌词滚动",
         "requirements": [
-            "LibLyric"
+            "liblyric"
         ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RefinedNowPlaying.jpg",
@@ -251,7 +251,7 @@
         ],
         "type": "extension",
         "slug": "RefinedNowPlaying",
-        "update_time": 1675019813,
+        "update_time": 1675023616,
         "repo": "solstice23/refined-now-playing-netease",
         "file": "RefinedNowPlaying-2.0.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.0.0.plugin"

@@ -257,15 +257,16 @@
     {
         "name": "RoundCornerNCM",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "网易云窗口圆角。仅Win11。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/RoundCornerNCM.png",
         "slug": "RoundCornerNCM",
-        "update_time": 1672550884,
+        "update_time": 1674960323,
         "repo": "BetterNCM/RoundCornerNCM",
-        "file": "RoundCornerNCM-0.1.1.plugin",
-        "file-url": "plugins/RoundCornerNCM-0.1.1.plugin"
+        "require_restart": true,
+        "file": "RoundCornerNCM-0.1.2.plugin",
+        "file-url": "plugins/RoundCornerNCM-0.1.2.plugin"
     },
     {
         "name": "RuLyrics",

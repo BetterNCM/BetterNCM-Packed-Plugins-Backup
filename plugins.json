@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 45,
+        "stars": 46,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -184,7 +184,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.0.3",
+        "version": "2.0.4",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -194,11 +194,11 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1674764103,
+        "update_time": 1675192118,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 41,
-        "file": "MaterialYouTheme-2.0.3.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.0.3.plugin"
+        "file": "MaterialYouTheme-2.0.4.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.0.4.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -255,11 +255,9 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.2.0",
+        "version": "2.2.1",
         "description": "重新设计的正在播放页面 (如果无法安装请更新最新测试版 BetterNCM)",
-        "requirements": [
-            "liblyric"
-        ],
+        "requirements": [],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/RefinedNowPlaying.jpg",
         "author_links": [
@@ -270,11 +268,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675166002,
+        "update_time": 1675192123,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 48,
-        "file": "RefinedNowPlaying-2.2.0.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.2.0.plugin"
+        "stars": 50,
+        "file": "RefinedNowPlaying-2.2.1.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.2.1.plugin"
     },
     {
         "name": "RoundCornerNCM",

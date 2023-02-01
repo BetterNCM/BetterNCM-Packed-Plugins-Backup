@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 46,
+        "stars": 45,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -215,7 +215,7 @@
         "slug": "MikuPlugin",
         "update_time": 1673180166,
         "repo": "miku3333/miku-plugin",
-        "stars": 4,
+        "stars": 5,
         "file": "MikuPlugin-0.1.1.plugin",
         "file-url": "plugins/MikuPlugin-0.1.1.plugin"
     },
@@ -344,14 +344,15 @@
     {
         "name": "StylesheetLoader",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "依赖库 用于统一加载样式表",
-        "betterncm_version": ">=0.2.0",
+        "betterncm_version": ">=1.0.0",
         "type": "lib",
         "slug": "StylesheetLoader",
-        "update_time": 1671194414,
-        "file": "StylesheetLoader-0.1.1.plugin",
-        "file-url": "plugins/StylesheetLoader-0.1.1.plugin"
+        "update_time": 1675228669,
+        "repo": "BetterNCM/StylesheetLoader",
+        "file": "StylesheetLoader-0.1.2.plugin",
+        "file-url": "plugins/StylesheetLoader-0.1.2.plugin"
     },
     {
         "name": "任务栏歌词",
@@ -366,7 +367,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675153173,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 17,
+        "stars": 16,
         "file": "Taskbar-Lyrics-1.2.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.2.plugin"
     },

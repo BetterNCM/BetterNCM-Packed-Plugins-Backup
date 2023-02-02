@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 48,
+        "stars": 49,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -50,21 +50,6 @@
         "stars": 6,
         "file": "BGEnhanced-0.2.7.plugin",
         "file-url": "plugins/BGEnhanced-0.2.7.plugin"
-    },
-    {
-        "name": "Customize",
-        "author": "Nexmoe",
-        "version": "0.1.0",
-        "description": "注入你的 CSS，让网易云变成你的形状",
-        "preview": "previews/Customize.png",
-        "author_links": [
-            "https://github.com/nexmoe"
-        ],
-        "slug": "Customize",
-        "update_time": 1675326244,
-        "repo": "nexmoe/betterncm-plugin-customize",
-        "file": "Customize-0.1.0.plugin",
-        "file-url": "plugins/Customize-0.1.0.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -270,7 +255,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.2.2",
+        "version": "2.3.0",
         "description": "重新设计的正在播放页面 (如果无法安装请更新最新测试版 BetterNCM)",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -283,11 +268,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675241706,
+        "update_time": 1675368598,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 53,
-        "file": "RefinedNowPlaying-2.2.2.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.2.2.plugin"
+        "stars": 54,
+        "file": "RefinedNowPlaying-2.3.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.3.0.plugin"
     },
     {
         "name": "RoundCornerNCM",

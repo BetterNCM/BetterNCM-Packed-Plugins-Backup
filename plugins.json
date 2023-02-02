@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 45,
+        "stars": 48,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -50,6 +50,21 @@
         "stars": 6,
         "file": "BGEnhanced-0.2.7.plugin",
         "file-url": "plugins/BGEnhanced-0.2.7.plugin"
+    },
+    {
+        "name": "Customize",
+        "author": "Nexmoe",
+        "version": "0.1.0",
+        "description": "注入你的 CSS，让网易云变成你的形状",
+        "preview": "previews/Customize.png",
+        "author_links": [
+            "https://github.com/nexmoe"
+        ],
+        "slug": "Customize",
+        "update_time": 1675326244,
+        "repo": "nexmoe/betterncm-plugin-customize",
+        "file": "Customize-0.1.0.plugin",
+        "file-url": "plugins/Customize-0.1.0.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -91,7 +106,7 @@
         "slug": "InfLink",
         "update_time": 1673440532,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 2,
+        "stars": 3,
         "native": true,
         "file": "InfLink-0.1.5.plugin",
         "file-url": "plugins/InfLink-0.1.5.plugin"
@@ -196,7 +211,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675192118,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 41,
+        "stars": 42,
         "file": "MaterialYouTheme-2.0.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.4.plugin"
     },
@@ -270,7 +285,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675241706,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 50,
+        "stars": 53,
         "file": "RefinedNowPlaying-2.2.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.2.2.plugin"
     },
@@ -367,7 +382,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675153173,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 16,
+        "stars": 18,
         "file": "Taskbar-Lyrics-1.2.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.2.plugin"
     },
@@ -456,7 +471,7 @@
         "slug": "What-is-the-cover-of-this-music",
         "update_time": 1674832554,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "stars": 5,
+        "stars": 6,
         "file": "What-is-the-cover-of-this-music-2.0.4.plugin",
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.4.plugin"
     },

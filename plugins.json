@@ -63,7 +63,7 @@
         "slug": "Customize",
         "update_time": 1675400516,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 2,
+        "stars": 3,
         "file": "Customize-0.3.0.plugin",
         "file-url": "plugins/Customize-0.3.0.plugin"
     },
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675411565,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 58,
+        "stars": 60,
         "file": "RefinedNowPlaying-2.3.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.3.2.plugin"
     },
@@ -307,8 +307,8 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.1.1",
-        "description": "description",
+        "version": "0.1.2",
+        "description": "桌面歌词插件，支持逐词，嵌入任务栏",
         "requirements": [
             "liblyric"
         ],
@@ -318,12 +318,12 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1674443772,
+        "update_time": 1675441248,
         "repo": "BetterNCM/RuLyric",
         "stars": 1,
         "native": true,
-        "file": "RuLyrics-0.1.1.plugin",
-        "file-url": "plugins/RuLyrics-0.1.1.plugin"
+        "file": "RuLyrics-0.1.2.plugin",
+        "file-url": "plugins/RuLyrics-0.1.2.plugin"
     },
     {
         "name": "SimpleAudioVisualizer",

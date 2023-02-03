@@ -63,6 +63,7 @@
         "slug": "Customize",
         "update_time": 1675400516,
         "repo": "nexmoe/betterncm-plugin-customize",
+        "stars": 2,
         "file": "Customize-0.3.0.plugin",
         "file-url": "plugins/Customize-0.3.0.plugin"
     },
@@ -99,17 +100,17 @@
     {
         "name": "InfLink",
         "author": "MicroBlock",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLink.png",
         "slug": "InfLink",
-        "update_time": 1673440532,
+        "update_time": 1675430488,
         "repo": "BetterNCM/InfinityLink",
         "stars": 3,
         "native": true,
-        "file": "InfLink-0.1.5.plugin",
-        "file-url": "plugins/InfLink-0.1.5.plugin"
+        "file": "InfLink-0.1.6.plugin",
+        "file-url": "plugins/InfLink-0.1.6.plugin"
     },
     {
         "name": "LibEAPIRequest",

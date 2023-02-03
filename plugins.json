@@ -230,7 +230,7 @@
         "slug": "MikuPlugin",
         "update_time": 1673180166,
         "repo": "miku3333/miku-plugin",
-        "stars": 5,
+        "stars": 6,
         "file": "MikuPlugin-0.1.1.plugin",
         "file-url": "plugins/MikuPlugin-0.1.1.plugin"
     },
@@ -270,7 +270,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.3.0",
+        "version": "2.3.1",
         "description": "重新设计的正在播放页面 (如果无法安装请更新最新测试版 BetterNCM)",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -283,11 +283,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675368598,
+        "update_time": 1675409729,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 55,
-        "file": "RefinedNowPlaying-2.3.0.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.3.0.plugin"
+        "stars": 58,
+        "file": "RefinedNowPlaying-2.3.1.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.3.1.plugin"
     },
     {
         "name": "RoundCornerNCM",

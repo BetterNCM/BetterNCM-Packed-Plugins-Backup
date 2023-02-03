@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 49,
+        "stars": 50,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -50,6 +50,21 @@
         "stars": 6,
         "file": "BGEnhanced-0.2.7.plugin",
         "file-url": "plugins/BGEnhanced-0.2.7.plugin"
+    },
+    {
+        "name": "Customize",
+        "author": "Nexmoe",
+        "version": "0.3.0",
+        "description": "注入你的 CSS 和 JS 代码，让网易云变成你的形状",
+        "preview": "previews/Customize.png",
+        "author_links": [
+            "https://github.com/nexmoe"
+        ],
+        "slug": "Customize",
+        "update_time": 1675400516,
+        "repo": "nexmoe/betterncm-plugin-customize",
+        "file": "Customize-0.3.0.plugin",
+        "file-url": "plugins/Customize-0.3.0.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -196,7 +211,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675192118,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 42,
+        "stars": 44,
         "file": "MaterialYouTheme-2.0.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.4.plugin"
     },
@@ -236,7 +251,7 @@
         "slug": "MoTheme",
         "update_time": 1674480145,
         "repo": "mo-jinran/MoTheme",
-        "stars": 8,
+        "stars": 9,
         "file": "MoTheme-1.2.0.plugin",
         "file-url": "plugins/MoTheme-1.2.0.plugin"
     },
@@ -270,7 +285,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675368598,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 54,
+        "stars": 55,
         "file": "RefinedNowPlaying-2.3.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.3.0.plugin"
     },

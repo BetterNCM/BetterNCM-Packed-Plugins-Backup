@@ -2,15 +2,15 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.4",
-        "description": "右键下载打开歌曲，右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
+        "version": "0.1.5",
+        "description": "右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
         "slug": "ActionEnhancement",
-        "update_time": 1672550881,
+        "update_time": 1675519948,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.4.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.4.plugin"
+        "file": "ActionEnhancement-0.1.5.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.5.plugin"
     },
     {
         "name": "Apple Music-like lyrics",
@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 49,
+        "stars": 50,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675497963,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 46,
+        "stars": 47,
         "file": "MaterialYouTheme-2.0.5.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.5.plugin"
     },

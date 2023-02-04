@@ -2,15 +2,15 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "description": "右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
         "slug": "ActionEnhancement",
-        "update_time": 1675519948,
+        "update_time": 1675522630,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.5.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.5.plugin"
+        "file": "ActionEnhancement-0.1.6.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.6.plugin"
     },
     {
         "name": "Apple Music-like lyrics",

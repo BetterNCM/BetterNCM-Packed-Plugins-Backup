@@ -212,15 +212,15 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675497963,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 44,
+        "stars": 46,
         "file": "MaterialYouTheme-2.0.5.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.5.plugin"
     },
     {
         "name": "MikuPlugin",
         "author": "小岩喵",
-        "version": "0.1.1",
-        "description": "(点左侧插件管理使用) 精简网易云音乐，关闭任何组件",
+        "version": "0.1.2",
+        "description": "(点左侧插件管理使用) 精简网易云音乐，关闭任何组件，修改字体与颜色",
         "requirements": [],
         "betterncm_version": ">=0.2.4",
         "preview": "previews/MikuPlugin.jpg",
@@ -229,11 +229,11 @@
         ],
         "type": "extension",
         "slug": "MikuPlugin",
-        "update_time": 1673180166,
+        "update_time": 1675509124,
         "repo": "miku3333/miku-plugin",
         "stars": 6,
-        "file": "MikuPlugin-0.1.1.plugin",
-        "file-url": "plugins/MikuPlugin-0.1.1.plugin"
+        "file": "MikuPlugin-0.1.2.plugin",
+        "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
     {
         "name": "MoTheme",
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675451550,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 61,
+        "stars": 62,
         "file": "RefinedNowPlaying-2.3.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.3.3.plugin"
     },

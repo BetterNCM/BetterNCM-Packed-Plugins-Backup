@@ -63,7 +63,7 @@
         "slug": "Customize",
         "update_time": 1675484288,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 4,
+        "stars": 5,
         "file": "Customize-0.3.1.plugin",
         "file-url": "plugins/Customize-0.3.1.plugin"
     },
@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675526580,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 47,
+        "stars": 48,
         "file": "MaterialYouTheme-2.0.6.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.6.plugin"
     },
@@ -271,7 +271,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.3.3",
+        "version": "2.3.4",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -284,11 +284,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675451550,
+        "update_time": 1675541686,
         "repo": "solstice23/refined-now-playing-netease",
         "stars": 63,
-        "file": "RefinedNowPlaying-2.3.3.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.3.3.plugin"
+        "file": "RefinedNowPlaying-2.3.4.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.3.4.plugin"
     },
     {
         "name": "RoundCornerNCM",
@@ -383,7 +383,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675153173,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 18,
+        "stars": 19,
         "file": "Taskbar-Lyrics-1.2.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.2.plugin"
     },
@@ -456,6 +456,7 @@
         "slug": "VisualRecord",
         "update_time": 1672557163,
         "repo": "mo-jinran/VisualRecord",
+        "stars": 1,
         "file": "VisualRecord-1.0.1.plugin",
         "file-url": "plugins/VisualRecord-1.0.1.plugin"
     },

@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675610807,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 48,
+        "stars": 49,
         "file": "MaterialYouTheme-2.0.7.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.7.plugin"
     },
@@ -271,7 +271,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.3.6",
+        "version": "2.4.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -284,11 +284,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675610811,
+        "update_time": 1675636061,
         "repo": "solstice23/refined-now-playing-netease",
         "stars": 64,
-        "file": "RefinedNowPlaying-2.3.6.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.3.6.plugin"
+        "file": "RefinedNowPlaying-2.4.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.4.0.plugin"
     },
     {
         "name": "RoundCornerNCM",

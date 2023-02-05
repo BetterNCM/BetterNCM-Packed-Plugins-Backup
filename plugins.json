@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 50,
+        "stars": 52,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675541686,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 63,
+        "stars": 64,
         "file": "RefinedNowPlaying-2.3.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.3.4.plugin"
     },
@@ -383,7 +383,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675153173,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 19,
+        "stars": 20,
         "file": "Taskbar-Lyrics-1.2.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.2.plugin"
     },
@@ -463,7 +463,7 @@
     {
         "name": "这首歌的封面是什么？",
         "author": "沫烬染",
-        "version": "2.0.4",
+        "version": "2.0.5",
         "description": "歌曲列表添加音乐封面。位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
         "preview": "previews/What-is-the-cover-of-this-music.png",
         "author_links": [
@@ -471,11 +471,11 @@
         ],
         "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1674832554,
+        "update_time": 1675606358,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
-        "stars": 6,
-        "file": "What-is-the-cover-of-this-music-2.0.4.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.4.plugin"
+        "stars": 7,
+        "file": "What-is-the-cover-of-this-music-2.0.5.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.5.plugin"
     },
     {
         "name": "Microrange",

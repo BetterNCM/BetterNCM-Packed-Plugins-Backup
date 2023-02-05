@@ -54,18 +54,18 @@
     {
         "name": "Customize",
         "author": "Nexmoe",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "description": "注入你的 CSS 和 JS 代码，让网易云变成你的形状",
         "preview": "previews/Customize.png",
         "author_links": [
             "https://github.com/nexmoe"
         ],
         "slug": "Customize",
-        "update_time": 1675484288,
+        "update_time": 1675565331,
         "repo": "nexmoe/betterncm-plugin-customize",
         "stars": 5,
-        "file": "Customize-0.3.1.plugin",
-        "file-url": "plugins/Customize-0.3.1.plugin"
+        "file": "Customize-0.3.2.plugin",
+        "file-url": "plugins/Customize-0.3.2.plugin"
     },
     {
         "name": "FluentProgressBar",

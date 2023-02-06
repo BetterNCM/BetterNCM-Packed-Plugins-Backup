@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675610807,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 49,
+        "stars": 51,
         "file": "MaterialYouTheme-2.0.7.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.7.plugin"
     },
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675661992,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 64,
+        "stars": 66,
         "file": "RefinedNowPlaying-2.4.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.4.2.plugin"
     },
@@ -348,14 +348,15 @@
     {
         "name": "StyleSnippet",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
+        "description": "界面美化 CSS 片段，支持本地一键修改，应用。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/StyleSnippet.png",
         "slug": "StyleSnippet",
-        "update_time": 1672601649,
+        "update_time": 1675696570,
         "repo": "BetterNCM/StyleSnippet",
-        "file": "StyleSnippet-0.1.0.plugin",
-        "file-url": "plugins/StyleSnippet-0.1.0.plugin"
+        "file": "StyleSnippet-0.1.1.plugin",
+        "file-url": "plugins/StyleSnippet-0.1.1.plugin"
     },
     {
         "name": "StylesheetLoader",
@@ -373,19 +374,19 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.2.2",
-        "description": "在任务栏上“嵌入”歌词，目前仅测试过Windows 11部分版本：22H2，21H2",
+        "version": "1.2.3",
+        "description": "在任务栏上“嵌入”歌词，理论支持Windows 11所有版本任务栏",
         "preview": "previews/Taskbar-Lyrics.png",
         "author_links": [
             "https://github.com/mo-jinran"
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1675153173,
+        "update_time": 1675690138,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 20,
-        "file": "Taskbar-Lyrics-1.2.2.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.2.2.plugin"
+        "stars": 21,
+        "file": "Taskbar-Lyrics-1.2.3.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.2.3.plugin"
     },
     {
         "name": "TinyNCM",

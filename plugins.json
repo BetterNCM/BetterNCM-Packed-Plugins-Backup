@@ -271,7 +271,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.5.0",
+        "version": "2.5.1",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -284,11 +284,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675774346,
+        "update_time": 1675785528,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 68,
-        "file": "RefinedNowPlaying-2.5.0.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.5.0.plugin"
+        "stars": 69,
+        "file": "RefinedNowPlaying-2.5.1.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.5.1.plugin"
     },
     {
         "name": "RoundCornerNCM",

@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675154059,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 52,
+        "stars": 53,
         "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
     },
@@ -107,7 +107,7 @@
         "slug": "InfLink",
         "update_time": 1675430488,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 3,
+        "stars": 4,
         "native": true,
         "file": "InfLink-0.1.6.plugin",
         "file-url": "plugins/InfLink-0.1.6.plugin"
@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675610807,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 52,
+        "stars": 53,
         "file": "MaterialYouTheme-2.0.7.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.7.plugin"
     },
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675704072,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 67,
+        "stars": 68,
         "file": "RefinedNowPlaying-2.4.2.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.4.2.1.plugin"
     },
@@ -374,7 +374,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "description": "在任务栏上“嵌入”歌词，理论支持Windows 11所有版本任务栏",
         "preview": "previews/Taskbar-Lyrics.png",
         "author_links": [
@@ -382,11 +382,11 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1675690138,
+        "update_time": 1675768359,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 21,
-        "file": "Taskbar-Lyrics-1.2.3.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.2.3.plugin"
+        "stars": 22,
+        "file": "Taskbar-Lyrics-1.2.4.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.2.4.plugin"
     },
     {
         "name": "TinyNCM",

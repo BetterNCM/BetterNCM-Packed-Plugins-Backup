@@ -212,7 +212,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675610807,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 51,
+        "stars": 52,
         "file": "MaterialYouTheme-2.0.7.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.7.plugin"
     },
@@ -286,7 +286,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675704072,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 66,
+        "stars": 67,
         "file": "RefinedNowPlaying-2.4.2.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.4.2.1.plugin"
     },
@@ -348,15 +348,15 @@
     {
         "name": "StyleSnippet",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "界面美化 CSS 片段，支持本地一键修改，应用。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/StyleSnippet.png",
         "slug": "StyleSnippet",
-        "update_time": 1675696570,
+        "update_time": 1675732563,
         "repo": "BetterNCM/StyleSnippet",
-        "file": "StyleSnippet-0.1.1.plugin",
-        "file-url": "plugins/StyleSnippet-0.1.1.plugin"
+        "file": "StyleSnippet-0.1.2.plugin",
+        "file-url": "plugins/StyleSnippet-0.1.2.plugin"
     },
     {
         "name": "StylesheetLoader",

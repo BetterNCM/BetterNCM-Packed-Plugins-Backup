@@ -200,7 +200,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.0.7",
+        "version": "2.0.8",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -210,11 +210,11 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1675610807,
+        "update_time": 1675774341,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 53,
-        "file": "MaterialYouTheme-2.0.7.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.0.7.plugin"
+        "file": "MaterialYouTheme-2.0.8.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.0.8.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -271,7 +271,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.4.2.1",
+        "version": "2.5.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -284,11 +284,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675704072,
+        "update_time": 1675774346,
         "repo": "solstice23/refined-now-playing-netease",
         "stars": 68,
-        "file": "RefinedNowPlaying-2.4.2.1.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.4.2.1.plugin"
+        "file": "RefinedNowPlaying-2.5.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.5.0.plugin"
     },
     {
         "name": "RoundCornerNCM",

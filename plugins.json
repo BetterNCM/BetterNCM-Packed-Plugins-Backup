@@ -15,8 +15,8 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "1.7.1",
-        "description": "一个基于 BetterNCM 的类 Apple Music 歌词显示插件 ",
+        "version": "1.8.1",
+        "description": "一个基于 BetterNCM 的类 Apple Music 歌词显示插件",
         "requirements": [
             "libsonginfo",
             "liblyric"
@@ -32,11 +32,11 @@
             "RefinedNowPlaying"
         ],
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1675154059,
+        "update_time": 1675829971,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 53,
-        "file": "Apple-Musiclike-lyrics-1.7.1.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-1.7.1.plugin"
+        "stars": 55,
+        "file": "Apple-Musiclike-lyrics-1.8.1.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-1.8.1.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -63,7 +63,7 @@
         "slug": "Customize",
         "update_time": 1675565331,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 5,
+        "stars": 6,
         "file": "Customize-0.3.2.plugin",
         "file-url": "plugins/Customize-0.3.2.plugin"
     },

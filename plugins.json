@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675829971,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 55,
+        "stars": 56,
         "file": "Apple-Musiclike-lyrics-1.8.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.1.plugin"
     },
@@ -326,6 +326,23 @@
         "file-url": "plugins/RuLyrics-0.1.3.plugin"
     },
     {
+        "name": "Search on osu!",
+        "author": "solstice23",
+        "version": "0.7.2.7",
+        "description": "在 osu! 中搜索当前播放的曲目",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/search-on-osu.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "search-on-osu",
+        "update_time": 1675852486,
+        "repo": "solstice23/search-on-osu",
+        "file": "search-on-osu-0.7.2.7.plugin",
+        "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
+    },
+    {
         "name": "SimpleAudioVisualizer",
         "author": "MicroBlock & woshizja",
         "version": "0.1.2",
@@ -355,6 +372,7 @@
         "slug": "StyleSnippet",
         "update_time": 1675732563,
         "repo": "BetterNCM/StyleSnippet",
+        "stars": 1,
         "file": "StyleSnippet-0.1.2.plugin",
         "file-url": "plugins/StyleSnippet-0.1.2.plugin"
     },

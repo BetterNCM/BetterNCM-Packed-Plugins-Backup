@@ -63,7 +63,7 @@
         "slug": "Customize",
         "update_time": 1675565331,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 6,
+        "stars": 7,
         "file": "Customize-0.3.2.plugin",
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
@@ -163,7 +163,7 @@
         "slug": "liblyric",
         "update_time": 1674374363,
         "repo": "Steve-xmh/LibLyric",
-        "stars": 7,
+        "stars": 8,
         "file": "liblyric-1.0.0.plugin",
         "file-url": "plugins/liblyric-1.0.0.plugin"
     },
@@ -275,7 +275,7 @@
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/RefinedNowPlaying.gif",
+        "preview": "previews/RefinedNowPlaying.webp",
         "author_links": [
             "https://github.com/solstice23"
         ],
@@ -284,9 +284,9 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675879786,
+        "update_time": 1675939746,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 70,
+        "stars": 72,
         "file": "RefinedNowPlaying-2.5.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.5.2.plugin"
     },
@@ -339,7 +339,7 @@
         "slug": "search-on-osu",
         "update_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 1,
+        "stars": 3,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -403,7 +403,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675768359,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 22,
+        "stars": 23,
         "file": "Taskbar-Lyrics-1.2.4.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.4.plugin"
     },

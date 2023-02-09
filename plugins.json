@@ -34,7 +34,7 @@
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1675887402,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 56,
+        "stars": 57,
         "file": "Apple-Musiclike-lyrics-1.8.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.2.plugin"
     },
@@ -271,7 +271,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.5.2",
+        "version": "2.5.3",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -284,11 +284,11 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1675939746,
+        "update_time": 1675964580,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 72,
-        "file": "RefinedNowPlaying-2.5.2.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.5.2.plugin"
+        "stars": 74,
+        "file": "RefinedNowPlaying-2.5.3.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.5.3.plugin"
     },
     {
         "name": "RoundCornerNCM",
@@ -403,7 +403,7 @@
         "slug": "Taskbar-Lyrics",
         "update_time": 1675768359,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 23,
+        "stars": 24,
         "file": "Taskbar-Lyrics-1.2.4.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.2.4.plugin"
     },

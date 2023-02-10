@@ -39,6 +39,23 @@
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.2.plugin"
     },
     {
+        "name": "Ark Theme",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "一个仿明日方舟 UI 的主题。暂时仅支持亮色模式（网易云本身白色主题）。",
+        "requirements": [
+            "RefinedNowPlaying",
+            "StyleSnippet"
+        ],
+        "betterncm_version": "^0.2.6",
+        "preview": "previews/ark-theme.png",
+        "slug": "ark-theme",
+        "update_time": 1676039543,
+        "repo": "BetterNCM/ArkTheme",
+        "file": "ark-theme-0.1.0.plugin",
+        "file-url": "plugins/ark-theme-0.1.0.plugin"
+    },
+    {
         "name": "BGEnhanced",
         "author": "MicroBlock",
         "version": "0.2.7",
@@ -107,7 +124,7 @@
         "slug": "InfLink",
         "update_time": 1675430488,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 4,
+        "stars": 5,
         "native": true,
         "file": "InfLink-0.1.6.plugin",
         "file-url": "plugins/InfLink-0.1.6.plugin"
@@ -212,7 +229,7 @@
         "slug": "MaterialYouTheme",
         "update_time": 1675774341,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 53,
+        "stars": 54,
         "file": "MaterialYouTheme-2.0.8.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.8.plugin"
     },
@@ -286,7 +303,7 @@
         "slug": "RefinedNowPlaying",
         "update_time": 1675964580,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 74,
+        "stars": 77,
         "file": "RefinedNowPlaying-2.5.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.5.3.plugin"
     },
@@ -339,7 +356,7 @@
         "slug": "search-on-osu",
         "update_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 3,
+        "stars": 4,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },

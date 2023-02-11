@@ -220,13 +220,13 @@
     {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
-        "version": "0.1.6",
+        "version": "0.1.7",
         "slug": "LiveSongPlayer",
-        "update_time": 1674231691,
+        "update_time": 1676099592,
         "publish_time": 1673944958,
         "repo": "MicroCBer/LiveSongPlayer-MKII",
-        "file": "LiveSongPlayer-0.1.6.plugin",
-        "file-url": "plugins/LiveSongPlayer-0.1.6.plugin"
+        "file": "LiveSongPlayer-0.1.7.plugin",
+        "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
     {
         "name": "Material You",
@@ -322,7 +322,7 @@
         "update_time": 1675964580,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 78,
+        "stars": 79,
         "file": "RefinedNowPlaying-2.5.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.5.3.plugin"
     },

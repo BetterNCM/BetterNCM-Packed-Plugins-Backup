@@ -92,6 +92,21 @@
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
     {
+        "name": "ElainaTheme",
+        "author": "keiko233",
+        "version": "0.1.1",
+        "description": "Random Elaina background & UI Minor tweaks",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/elaina-theme.png",
+        "type": "theme",
+        "slug": "elaina-theme",
+        "update_time": 1676203273,
+        "publish_time": 1676203273,
+        "repo": "keiko233/elaina-theme-netease",
+        "file": "elaina-theme-0.1.1.plugin",
+        "file-url": "plugins/elaina-theme-0.1.1.plugin"
+    },
+    {
         "name": "FluentProgressBar",
         "author": "MicroBlock & Solstice23",
         "version": "0.2.0",
@@ -303,6 +318,30 @@
         "publish_time": 1670425948,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
+    },
+    {
+        "name": "ReLive",
+        "author": "Flysoft",
+        "version": "0.2.2",
+        "description": "ReLive 主题 | 修改自 Ark Theme",
+        "requirements": [
+            "RefinedNowPlaying",
+            "StyleSnippet"
+        ],
+        "betterncm_version": "^1.0.0",
+        "preview": "previews/relive-theme.gif",
+        "type": "theme",
+        "incompatible": [
+            "Apple-Musiclike-lyrics",
+            "MaterialYouTheme"
+        ],
+        "slug": "relive-theme",
+        "update_time": 1676203250,
+        "publish_time": 1676203250,
+        "repo": "FlysoftBeta/ReLive",
+        "stars": 2,
+        "file": "relive-theme-0.2.2.plugin",
+        "file-url": "plugins/relive-theme-0.2.2.plugin"
     },
     {
         "name": "RefinedNowPlaying",

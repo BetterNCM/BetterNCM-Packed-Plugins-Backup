@@ -322,26 +322,29 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.2.3",
-        "description": "ReLive 主题 | 修改自 Ark Theme",
+        "version": "0.2.4",
+        "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
             "StyleSnippet"
         ],
         "betterncm_version": "^1.0.0",
         "preview": "previews/relive-theme.gif",
+        "author_links": [
+            "https://github.com/FlysoftBeta"
+        ],
         "type": "theme",
         "incompatible": [
             "Apple-Musiclike-lyrics",
             "MaterialYouTheme"
         ],
         "slug": "relive-theme",
-        "update_time": 1676204118,
+        "update_time": 1676207960,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 2,
-        "file": "relive-theme-0.2.3.plugin",
-        "file-url": "plugins/relive-theme-0.2.3.plugin"
+        "file": "relive-theme-0.2.4.plugin",
+        "file-url": "plugins/relive-theme-0.2.4.plugin"
     },
     {
         "name": "RefinedNowPlaying",

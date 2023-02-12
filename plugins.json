@@ -43,7 +43,7 @@
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "一个仿明日方舟 UI 的主题。暂时仅支持亮色模式（网易云本身白色主题）。",
         "requirements": [
             "RefinedNowPlaying",
@@ -53,12 +53,12 @@
         "preview": "previews/ark-theme.png",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1676098892,
+        "update_time": 1676166639,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
-        "stars": 1,
-        "file": "ark-theme-0.1.1.plugin",
-        "file-url": "plugins/ark-theme-0.1.1.plugin"
+        "stars": 2,
+        "file": "ark-theme-0.1.2.plugin",
+        "file-url": "plugins/ark-theme-0.1.2.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -245,7 +245,7 @@
         "update_time": 1675774341,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 55,
+        "stars": 56,
         "file": "MaterialYouTheme-2.0.8.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.8.plugin"
     },

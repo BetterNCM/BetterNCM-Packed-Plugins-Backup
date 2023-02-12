@@ -36,14 +36,14 @@
         "update_time": 1675887402,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 59,
+        "stars": 60,
         "file": "Apple-Musiclike-lyrics-1.8.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.2.plugin"
     },
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.1.2",
+        "version": "0.2.0",
         "description": "一个仿明日方舟 UI 的主题。暂时仅支持亮色模式（网易云本身白色主题）。",
         "requirements": [
             "RefinedNowPlaying",
@@ -53,12 +53,12 @@
         "preview": "previews/ark-theme.png",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1676166639,
+        "update_time": 1676194866,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 2,
-        "file": "ark-theme-0.1.2.plugin",
-        "file-url": "plugins/ark-theme-0.1.2.plugin"
+        "file": "ark-theme-0.2.0.plugin",
+        "file-url": "plugins/ark-theme-0.2.0.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -245,7 +245,7 @@
         "update_time": 1675774341,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 56,
+        "stars": 57,
         "file": "MaterialYouTheme-2.0.8.plugin",
         "file-url": "plugins/MaterialYouTheme-2.0.8.plugin"
     },

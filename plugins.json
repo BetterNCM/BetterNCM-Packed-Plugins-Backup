@@ -322,7 +322,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.2.2",
+        "version": "0.2.3",
         "description": "ReLive 主题 | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -336,12 +336,12 @@
             "MaterialYouTheme"
         ],
         "slug": "relive-theme",
-        "update_time": 1676203250,
+        "update_time": 1676204118,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 2,
-        "file": "relive-theme-0.2.2.plugin",
-        "file-url": "plugins/relive-theme-0.2.2.plugin"
+        "file": "relive-theme-0.2.3.plugin",
+        "file-url": "plugins/relive-theme-0.2.3.plugin"
     },
     {
         "name": "RefinedNowPlaying",

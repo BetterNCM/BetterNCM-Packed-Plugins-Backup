@@ -12,7 +12,17 @@
         "repo": "BetterNCM/ActionEnhancement",
         "file": "ActionEnhancement-0.1.6.plugin",
         "file-url": "plugins/ActionEnhancement-0.1.6.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Apple Music-like lyrics",
@@ -29,9 +39,17 @@
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
         ],
-        "type": "extension",
+        "type": "framework",
         "incompatible": [
-            "RefinedNowPlaying"
+            "RefinedNowPlaying",
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
         ],
         "slug": "Apple-Musiclike-lyrics",
         "update_time": 1676315556,
@@ -52,14 +70,24 @@
         ],
         "betterncm_version": "^1.0.0",
         "preview": "previews/ark-theme.webp",
-        "type": "extension",
+        "type": "framework",
         "slug": "ark-theme",
         "update_time": 1676209998,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 3,
         "file": "ark-theme-0.2.4.plugin",
-        "file-url": "plugins/ark-theme-0.2.4.plugin"
+        "file-url": "plugins/ark-theme-0.2.4.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "BGEnhanced",
@@ -74,7 +102,17 @@
         "stars": 9,
         "file": "BGEnhanced-0.2.7.plugin",
         "file-url": "plugins/BGEnhanced-0.2.7.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Customize",
@@ -91,7 +129,17 @@
         "repo": "nexmoe/betterncm-plugin-customize",
         "file": "Customize-0.3.2.plugin",
         "file-url": "plugins/Customize-0.3.2.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "ElainaTheme",
@@ -100,14 +148,24 @@
         "description": "Random Elaina background & UI Minor tweaks",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
-        "type": "extension",
+        "type": "framework",
         "slug": "elaina-theme",
         "update_time": 1676283456,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 1,
         "file": "elaina-theme-0.1.3.plugin",
-        "file-url": "plugins/elaina-theme-0.1.3.plugin"
+        "file-url": "plugins/elaina-theme-0.1.3.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "FluentProgressBar",
@@ -123,7 +181,17 @@
         "stars": 5,
         "file": "FluentProgressBar-0.2.0.plugin",
         "file-url": "plugins/FluentProgressBar-0.2.0.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "HideScrollbar",
@@ -134,13 +202,23 @@
         "author_links": [
             "https://github.com/RingZc"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "HideScrollbar",
         "update_time": 1672589953,
         "publish_time": 1670425948,
         "repo": "RingZc/HideScrollbar",
         "file": "HideScrollbar-2.0.2.plugin",
-        "file-url": "plugins/HideScrollbar-2.0.2.plugin"
+        "file-url": "plugins/HideScrollbar-2.0.2.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "InfLink",
@@ -157,7 +235,17 @@
         "native": true,
         "file": "InfLink-0.1.6.plugin",
         "file-url": "plugins/InfLink-0.1.6.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "LibEAPIRequest",
@@ -170,8 +258,17 @@
             "https://github.com/Steve-xmh",
             "https://github.com/BetterNCM/LibEAPIRequest"
         ],
-        "type": "extension",
-        "incompatible": [],
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ],
         "slug": "LibEAPIRequest",
         "update_time": 1674485753,
         "publish_time": 1674485753,
@@ -193,7 +290,17 @@
         "stars": 4,
         "file": "LibFrontendPlay-0.1.0.plugin",
         "file-url": "plugins/LibFrontendPlay-0.1.0.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "LibLyric",
@@ -208,8 +315,17 @@
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/LibLyric"
         ],
-        "type": "extension",
-        "incompatible": [],
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ],
         "slug": "liblyric",
         "update_time": 1674374363,
         "publish_time": 1674374363,
@@ -229,8 +345,17 @@
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/LibSongInfo"
         ],
-        "type": "extension",
-        "incompatible": [],
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ],
         "slug": "libsonginfo",
         "update_time": 1674374336,
         "publish_time": 1674374336,
@@ -249,12 +374,22 @@
         "repo": "MicroCBer/LiveSongPlayer-MKII",
         "file": "LiveSongPlayer-0.1.7.plugin",
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.0.8",
+        "version": "2.1.0",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -262,14 +397,24 @@
         "author_links": [
             "https://github.com/solstice23"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "MaterialYouTheme",
-        "update_time": 1675774341,
+        "update_time": 1676794739,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 69,
-        "file": "MaterialYouTheme-2.0.8.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.0.8.plugin"
+        "stars": 70,
+        "file": "MaterialYouTheme-2.1.0.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.1.0.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "MikuPlugin",
@@ -282,14 +427,24 @@
         "author_links": [
             "https://github.com/miku3333"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "MikuPlugin",
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
         "stars": 8,
         "file": "MikuPlugin-0.1.2.plugin",
-        "file-url": "plugins/MikuPlugin-0.1.2.plugin"
+        "file-url": "plugins/MikuPlugin-0.1.2.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "MoTheme",
@@ -304,14 +459,24 @@
         "author_links": [
             "https://github.com/mo-jinran"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "MoTheme",
         "update_time": 1674480145,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
         "stars": 12,
         "file": "MoTheme-1.2.0.plugin",
-        "file-url": "plugins/MoTheme-1.2.0.plugin"
+        "file-url": "plugins/MoTheme-1.2.0.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "MoreHooks",
@@ -325,7 +490,17 @@
         "publish_time": 1670425948,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "ReLive",
@@ -341,9 +516,17 @@
         "author_links": [
             "https://github.com/FlysoftBeta"
         ],
-        "type": "extension",
+        "type": "framework",
         "incompatible": [
-            "Apple-Musiclike-lyrics"
+            "Apple-Musiclike-lyrics",
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
         ],
         "slug": "relive-theme",
         "update_time": 1676214898,
@@ -356,7 +539,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.8.0.1",
+        "version": "2.8.1",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -364,17 +547,25 @@
         "author_links": [
             "https://github.com/solstice23"
         ],
-        "type": "extension",
+        "type": "framework",
         "incompatible": [
-            "Apple-Musiclike-lyrics"
+            "Apple-Musiclike-lyrics",
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1676376783,
+        "update_time": 1676794743,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 107,
-        "file": "RefinedNowPlaying-2.8.0.1.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.8.0.1.plugin"
+        "stars": 108,
+        "file": "RefinedNowPlaying-2.8.1.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.8.1.plugin"
     },
     {
         "name": "RoundCornerNCM",
@@ -390,7 +581,17 @@
         "require_restart": true,
         "file": "RoundCornerNCM-0.1.2.plugin",
         "file-url": "plugins/RoundCornerNCM-0.1.2.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "RuLyrics",
@@ -413,7 +614,17 @@
         "native": true,
         "file": "RuLyrics-0.1.3.plugin",
         "file-url": "plugins/RuLyrics-0.1.3.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Search on osu!",
@@ -433,7 +644,17 @@
         "stars": 5,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "SimpleAudioVisualizer",
@@ -455,7 +676,17 @@
         "stars": 4,
         "file": "SimpleAudioVisualizer-0.1.2.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.2.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "StyleSnippet",
@@ -471,7 +702,17 @@
         "stars": 3,
         "file": "StyleSnippet-0.2.0.plugin",
         "file-url": "plugins/StyleSnippet-0.2.0.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "StylesheetLoader",
@@ -479,13 +720,23 @@
         "version": "0.1.2",
         "description": "依赖库 用于统一加载样式表",
         "betterncm_version": ">=1.0.0",
-        "type": "extension",
+        "type": "framework",
         "slug": "StylesheetLoader",
         "update_time": 1675228669,
         "publish_time": 1670425948,
         "repo": "BetterNCM/StylesheetLoader",
         "file": "StylesheetLoader-0.1.2.plugin",
-        "file-url": "plugins/StylesheetLoader-0.1.2.plugin"
+        "file-url": "plugins/StylesheetLoader-0.1.2.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "任务栏歌词",
@@ -496,14 +747,24 @@
         "author_links": [
             "https://github.com/mo-jinran"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "Taskbar-Lyrics",
         "update_time": 1676294646,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 30,
         "file": "Taskbar-Lyrics-1.3.1.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.3.1.plugin"
+        "file-url": "plugins/Taskbar-Lyrics-1.3.1.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "TinyNCM",
@@ -519,7 +780,17 @@
         "stars": 1,
         "file": "TinyNCM-0.2.3.plugin",
         "file-url": "plugins/TinyNCM-0.2.3.plugin",
-        "type": "extension"
+        "type": "framework",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Transmission",
@@ -530,12 +801,22 @@
             "StylesheetLoader"
         ],
         "preview": "previews/Transmission.png",
-        "type": "extension",
+        "type": "framework",
         "slug": "Transmission",
         "update_time": 1671303424,
         "publish_time": 1670425948,
         "file": "Transmission-0.1.3.plugin",
-        "file-url": "plugins/Transmission-0.1.3.plugin"
+        "file-url": "plugins/Transmission-0.1.3.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Unbounded",
@@ -547,12 +828,22 @@
         ],
         "betterncm_version": ">=0.2.0",
         "preview": "previews/Unbounded.png",
-        "type": "extension",
+        "type": "framework",
         "slug": "Unbounded",
         "update_time": 1671303424,
         "publish_time": 1670425948,
         "file": "Unbounded-0.1.0.plugin",
-        "file-url": "plugins/Unbounded-0.1.0.plugin"
+        "file-url": "plugins/Unbounded-0.1.0.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "可视化听歌排行",
@@ -563,14 +854,24 @@
         "author_links": [
             "https://github.com/mo-jinran"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "VisualRecord",
         "update_time": 1676053201,
         "publish_time": 1670425948,
         "repo": "mo-jinran/VisualRecord",
         "stars": 1,
         "file": "VisualRecord-1.0.2.plugin",
-        "file-url": "plugins/VisualRecord-1.0.2.plugin"
+        "file-url": "plugins/VisualRecord-1.0.2.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "这首歌的封面是什么？",
@@ -581,14 +882,24 @@
         "author_links": [
             "https://github.com/mo-jinran"
         ],
-        "type": "extension",
+        "type": "framework",
         "slug": "What-is-the-cover-of-this-music",
         "update_time": 1675606358,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
         "stars": 8,
         "file": "What-is-the-cover-of-this-music-2.0.5.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.5.plugin"
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.5.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     },
     {
         "name": "Microrange",
@@ -600,11 +911,21 @@
         ],
         "betterncm_version": ">=0.2.0",
         "preview": "previews/Microrange.png",
-        "type": "extension",
+        "type": "framework",
         "slug": "Microrange",
         "update_time": 1671303424,
         "publish_time": 1670425948,
         "file": "Microrange-0.1.0.plugin",
-        "file-url": "plugins/Microrange-0.1.0.plugin"
+        "file-url": "plugins/Microrange-0.1.0.plugin",
+        "incompatible": [
+            "ark-theme",
+            "elaina-theme",
+            "MaterialYouTheme",
+            "MoTheme",
+            "relive-theme",
+            "Transmission",
+            "Unbounded",
+            "Microrange"
+        ]
     }
 ]

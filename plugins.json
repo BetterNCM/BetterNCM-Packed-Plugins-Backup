@@ -118,7 +118,7 @@
         "update_time": 1676283456,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 1,
+        "stars": 2,
         "file": "elaina-theme-0.1.3.plugin",
         "file-url": "plugins/elaina-theme-0.1.3.plugin",
         "incompatible": [
@@ -295,7 +295,7 @@
         "update_time": 1676822142,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 70,
+        "stars": 72,
         "file": "MaterialYouTheme-2.2.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.2.0.plugin",
         "incompatible": [
@@ -325,7 +325,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 8,
+        "stars": 9,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin",
         "incompatible": []
@@ -430,7 +430,7 @@
         "update_time": 1676823602,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 108,
+        "stars": 110,
         "file": "RefinedNowPlaying-2.8.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.8.2.plugin"
     },
@@ -554,7 +554,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.4.0",
+        "version": "1.4.1",
         "description": "在任务栏上嵌入歌词，理论支持Windows 11所有版本任务栏",
         "preview": "previews/Taskbar-Lyrics.png",
         "author_links": [
@@ -562,12 +562,12 @@
         ],
         "type": "framework",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1676816013,
+        "update_time": 1676896273,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 30,
-        "file": "Taskbar-Lyrics-1.4.0.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.4.0.plugin",
+        "file": "Taskbar-Lyrics-1.4.1.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.4.1.plugin",
         "incompatible": []
     },
     {

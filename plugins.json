@@ -62,7 +62,6 @@
         "file": "ark-theme-0.2.4.plugin",
         "file-url": "plugins/ark-theme-0.2.4.plugin",
         "incompatible": [
-            "ark-theme",
             "elaina-theme",
             "MaterialYouTheme",
             "MoTheme",
@@ -123,7 +122,6 @@
         "file-url": "plugins/elaina-theme-0.2.4.plugin",
         "incompatible": [
             "ark-theme",
-            "elaina-theme",
             "MaterialYouTheme",
             "MoTheme",
             "relive-theme",
@@ -301,7 +299,6 @@
         "incompatible": [
             "ark-theme",
             "elaina-theme",
-            "MaterialYouTheme",
             "MoTheme",
             "relive-theme",
             "Transmission",
@@ -355,7 +352,6 @@
             "ark-theme",
             "elaina-theme",
             "MaterialYouTheme",
-            "MoTheme",
             "relive-theme",
             "Transmission",
             "Unbounded",
@@ -398,7 +394,6 @@
             "elaina-theme",
             "MaterialYouTheme",
             "MoTheme",
-            "relive-theme",
             "Transmission",
             "Unbounded",
             "Microrange"
@@ -608,7 +603,6 @@
             "MaterialYouTheme",
             "MoTheme",
             "relive-theme",
-            "Transmission",
             "Unbounded",
             "Microrange"
         ]
@@ -636,7 +630,6 @@
             "MoTheme",
             "relive-theme",
             "Transmission",
-            "Unbounded",
             "Microrange"
         ]
     },
@@ -701,8 +694,7 @@
             "MoTheme",
             "relive-theme",
             "Transmission",
-            "Unbounded",
-            "Microrange"
+            "Unbounded"
         ]
     }
 ]

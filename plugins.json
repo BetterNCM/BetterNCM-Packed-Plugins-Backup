@@ -549,7 +549,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.4.1",
+        "version": "1.4.2",
         "description": "在任务栏上嵌入歌词，理论支持Windows 11所有版本任务栏",
         "preview": "previews/Taskbar-Lyrics.png",
         "author_links": [
@@ -557,12 +557,12 @@
         ],
         "type": "framework",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1676896273,
+        "update_time": 1676984430,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 30,
-        "file": "Taskbar-Lyrics-1.4.1.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.4.1.plugin",
+        "file": "Taskbar-Lyrics-1.4.2.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.4.2.plugin",
         "incompatible": []
     },
     {

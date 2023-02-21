@@ -38,7 +38,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 69,
+        "stars": 70,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -282,7 +282,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.2.0",
+        "version": "2.2.1",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -292,12 +292,12 @@
         ],
         "type": "framework",
         "slug": "MaterialYouTheme",
-        "update_time": 1676822142,
+        "update_time": 1676972282,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 72,
-        "file": "MaterialYouTheme-2.2.0.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.2.0.plugin",
+        "file": "MaterialYouTheme-2.2.1.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.2.1.plugin",
         "incompatible": [
             "ark-theme",
             "elaina-theme",

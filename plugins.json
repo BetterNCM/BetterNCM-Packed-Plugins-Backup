@@ -430,6 +430,26 @@
         "file-url": "plugins/RefinedNowPlaying-2.8.4.plugin"
     },
     {
+        "name": "纯净分享链接",
+        "author": "solstice23",
+        "version": "1.0",
+        "description": "移除分享链接中的追踪参数",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/remove-tracking-attribute.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "slug": "remove-tracking-attribute",
+        "update_time": 1676985392,
+        "publish_time": 1676985392,
+        "repo": "BetterNCM/RemoveTrackingAttribute",
+        "file": "remove-tracking-attribute-1.0.plugin",
+        "file-url": "plugins/remove-tracking-attribute-1.0.plugin",
+        "type": "framework",
+        "incompatible": []
+    },
+    {
         "name": "RoundCornerNCM",
         "author": "MicroBlock",
         "version": "0.1.2",

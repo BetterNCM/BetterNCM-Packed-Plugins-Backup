@@ -364,7 +364,7 @@
         "update_time": 1677177934,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 120,
+        "stars": 121,
         "file": "RefinedNowPlaying-2.9.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.9.1.plugin"
     },
@@ -510,6 +510,23 @@
         "stars": 31,
         "file": "Taskbar-Lyrics-1.4.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.4.2.plugin"
+    },
+    {
+        "name": "明/暗主题切换器",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "切换主题模式 （网易云自身 酷炫黑/白色）",
+        "requirements": [],
+        "betterncm_version": ">= 1.0.0",
+        "author_links": [
+            "https://github.com/MicroCBer"
+        ],
+        "slug": "light-dark-theme-switcher",
+        "update_time": 1677254264,
+        "publish_time": 1677254264,
+        "repo": "BetterNCM/ThemeSwitcher",
+        "file": "light-dark-theme-switcher-0.1.0.plugin",
+        "file-url": "plugins/light-dark-theme-switcher-0.1.0.plugin"
     },
     {
         "name": "TinyNCM",

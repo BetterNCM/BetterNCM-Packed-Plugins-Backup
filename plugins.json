@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 73,
+        "stars": 74,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -94,18 +94,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.8",
+        "version": "0.2.9",
         "description": "Random Elaina background & UI Minor tweaks",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1677172494,
+        "update_time": 1677241851,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 3,
-        "file": "elaina-theme-0.2.8.plugin",
-        "file-url": "plugins/elaina-theme-0.2.8.plugin"
+        "file": "elaina-theme-0.2.9.plugin",
+        "file-url": "plugins/elaina-theme-0.2.9.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -323,7 +323,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.3.4",
+        "version": "0.3.5",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -339,12 +339,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "relive-theme",
-        "update_time": 1676819699,
+        "update_time": 1677241866,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 6,
-        "file": "relive-theme-0.3.4.plugin",
-        "file-url": "plugins/relive-theme-0.3.4.plugin"
+        "file": "relive-theme-0.3.5.plugin",
+        "file-url": "plugins/relive-theme-0.3.5.plugin"
     },
     {
         "name": "RefinedNowPlaying",

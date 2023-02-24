@@ -43,22 +43,23 @@
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.2.4",
-        "description": "类 Ark 主题 | 支持网易云 白色/酷炫黑主题（亮/暗色）| 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
+        "version": "0.2.5",
+        "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
         "requirements": [
             "RefinedNowPlaying",
-            "StyleSnippet"
+            "StyleSnippet",
+            "ThemeSwitcher"
         ],
         "betterncm_version": "^1.0.0",
         "preview": "previews/ark-theme.webp",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1676209998,
+        "update_time": 1677254795,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 3,
-        "file": "ark-theme-0.2.4.plugin",
-        "file-url": "plugins/ark-theme-0.2.4.plugin"
+        "file": "ark-theme-0.2.5.plugin",
+        "file-url": "plugins/ark-theme-0.2.5.plugin"
     },
     {
         "name": "BGEnhanced",

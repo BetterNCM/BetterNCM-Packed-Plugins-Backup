@@ -324,7 +324,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.3.6",
+        "version": "0.3.7",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -340,12 +340,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "relive-theme",
-        "update_time": 1677331168,
+        "update_time": 1677338086,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 6,
-        "file": "relive-theme-0.3.6.plugin",
-        "file-url": "plugins/relive-theme-0.3.6.plugin"
+        "file": "relive-theme-0.3.7.plugin",
+        "file-url": "plugins/relive-theme-0.3.7.plugin"
     },
     {
         "name": "RefinedNowPlaying",

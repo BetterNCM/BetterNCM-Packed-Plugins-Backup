@@ -365,7 +365,7 @@
         "update_time": 1677273151,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 122,
+        "stars": 123,
         "file": "RefinedNowPlaying-2.9.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.9.2.plugin"
     },
@@ -406,7 +406,7 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "description": "桌面歌词插件，支持逐词，嵌入任务栏",
         "requirements": [
             "liblyric"
@@ -417,13 +417,13 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1675513616,
+        "update_time": 1677313131,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
         "stars": 4,
         "native": true,
-        "file": "RuLyrics-0.1.3.plugin",
-        "file-url": "plugins/RuLyrics-0.1.3.plugin"
+        "file": "RuLyrics-0.1.4.plugin",
+        "file-url": "plugins/RuLyrics-0.1.4.plugin"
     },
     {
         "name": "Search on osu!",

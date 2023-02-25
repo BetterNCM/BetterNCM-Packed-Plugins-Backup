@@ -249,7 +249,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.4.1",
+        "version": "2.4.2",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -259,12 +259,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1677335853,
+        "update_time": 1677342957,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 79,
-        "file": "MaterialYouTheme-2.4.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.4.1.plugin"
+        "file": "MaterialYouTheme-2.4.2.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.4.2.plugin"
     },
     {
         "name": "MikuPlugin",

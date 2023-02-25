@@ -64,16 +64,17 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.7",
+        "version": "0.2.8",
+        "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1674734642,
+        "update_time": 1677328088,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 9,
-        "file": "BGEnhanced-0.2.7.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.7.plugin"
+        "file": "BGEnhanced-0.2.8.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
     {
         "name": "Customize",
@@ -420,7 +421,7 @@
         "update_time": 1677313131,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 4,
+        "stars": 5,
         "native": true,
         "file": "RuLyrics-0.1.4.plugin",
         "file-url": "plugins/RuLyrics-0.1.4.plugin"

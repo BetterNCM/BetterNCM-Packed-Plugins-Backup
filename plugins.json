@@ -484,16 +484,16 @@
     {
         "name": "StylesheetLoader",
         "author": "MicroBlock",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "description": "依赖库 用于统一加载样式表",
         "betterncm_version": ">=1.0.0",
         "type": "lib",
         "slug": "StylesheetLoader",
-        "update_time": 1675228669,
+        "update_time": 1677320133,
         "publish_time": 1670425948,
         "repo": "BetterNCM/StylesheetLoader",
-        "file": "StylesheetLoader-0.1.2.plugin",
-        "file-url": "plugins/StylesheetLoader-0.1.2.plugin"
+        "file": "StylesheetLoader-0.1.3.plugin",
+        "file-url": "plugins/StylesheetLoader-0.1.3.plugin"
     },
     {
         "name": "任务栏歌词",

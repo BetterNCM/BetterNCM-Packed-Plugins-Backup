@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 74,
+        "stars": 75,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -249,7 +249,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.4.2",
+        "version": "2.4.3",
         "description": "Material You 主题 | 支持切换配色",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
@@ -259,12 +259,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1677342957,
+        "update_time": 1677401024,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 79,
-        "file": "MaterialYouTheme-2.4.2.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.4.2.plugin"
+        "file": "MaterialYouTheme-2.4.3.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.4.3.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -366,7 +366,7 @@
         "update_time": 1677349722,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 123,
+        "stars": 125,
         "file": "RefinedNowPlaying-2.10.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.10.0.plugin"
     },
@@ -385,7 +385,7 @@
         "update_time": 1676985392,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
-        "stars": 2,
+        "stars": 3,
         "file": "remove-tracking-attribute-1.0.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
     },

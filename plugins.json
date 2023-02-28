@@ -95,18 +95,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.15",
-        "description": "Random Elaina background & UI Minor tweaks",
+        "version": "0.2.16",
+        "description": "Elaina elements & Collection of functions.",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1677575805,
+        "update_time": 1677587488,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 3,
-        "file": "elaina-theme-0.2.15.plugin",
-        "file-url": "plugins/elaina-theme-0.2.15.plugin"
+        "file": "elaina-theme-0.2.16.plugin",
+        "file-url": "plugins/elaina-theme-0.2.16.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -509,7 +509,7 @@
         "update_time": 1676984430,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 32,
+        "stars": 33,
         "file": "Taskbar-Lyrics-1.4.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.4.2.plugin"
     },

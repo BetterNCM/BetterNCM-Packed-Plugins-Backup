@@ -72,7 +72,7 @@
         "update_time": 1677328088,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 9,
+        "stars": 10,
         "file": "BGEnhanced-0.2.8.plugin",
         "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
@@ -104,7 +104,7 @@
         "update_time": 1677587488,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 3,
+        "stars": 4,
         "file": "elaina-theme-0.2.16.plugin",
         "file-url": "plugins/elaina-theme-0.2.16.plugin"
     },
@@ -231,7 +231,7 @@
         "update_time": 1674374336,
         "publish_time": 1674374336,
         "repo": "Steve-xmh/LibSongInfo",
-        "stars": 3,
+        "stars": 4,
         "file": "libsonginfo-1.0.0.plugin",
         "file-url": "plugins/libsonginfo-1.0.0.plugin"
     },
@@ -350,7 +350,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.11.0",
+        "version": "2.12.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -363,12 +363,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1677526288,
+        "update_time": 1677687796,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 132,
-        "file": "RefinedNowPlaying-2.11.0.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.11.0.plugin"
+        "stars": 134,
+        "file": "RefinedNowPlaying-2.12.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.12.0.plugin"
     },
     {
         "name": "纯净分享链接",
@@ -441,7 +441,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 5,
+        "stars": 6,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },

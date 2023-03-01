@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 80,
+        "stars": 81,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -249,8 +249,8 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.4.3.1",
-        "description": "Material You 主题 | 支持切换配色",
+        "version": "2.4.4",
+        "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [],
         "betterncm_version": ">=0.2.5",
         "preview": "previews/MaterialYouTheme.gif",
@@ -259,12 +259,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1677410918,
+        "update_time": 1677655081,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 81,
-        "file": "MaterialYouTheme-2.4.3.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.4.3.1.plugin"
+        "stars": 82,
+        "file": "MaterialYouTheme-2.4.4.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.4.4.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -509,7 +509,7 @@
         "update_time": 1676984430,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 33,
+        "stars": 34,
         "file": "Taskbar-Lyrics-1.4.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.4.2.plugin"
     },

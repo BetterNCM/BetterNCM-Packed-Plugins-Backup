@@ -247,6 +247,27 @@
         "file-url": "plugins/LiveSongPlayer-0.1.7.plugin"
     },
     {
+        "name": "LyricBar",
+        "author": "solstice23",
+        "version": "0.1.0",
+        "description": "重新设计的软件内词栏",
+        "requirements": [
+            "RefinedNowPlaying"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/LyricBar.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "slug": "LyricBar",
+        "update_time": 1677935011,
+        "publish_time": 1677935011,
+        "repo": "solstice23/lyric-bar-netease",
+        "file": "LyricBar-0.1.0.plugin",
+        "file-url": "plugins/LyricBar-0.1.0.plugin"
+    },
+    {
         "name": "Material You",
         "author": "solstice23",
         "version": "2.4.4",

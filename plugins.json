@@ -180,16 +180,16 @@
     {
         "name": "LibFrontendPlay",
         "author": "MicroBlock",
-        "version": "0.1.0",
-        "description": "在前端播放音乐，而不是 C++ 后端！\n喵喵喵喵喵喵喵喵",
+        "version": "0.1.1",
+        "description": "在前端播放音乐，而不是 C++ 后端！\n【支持 AMLL 音频可视化视效】",
         "betterncm_version": ">=1.0.0",
         "slug": "LibFrontendPlay",
-        "update_time": 1673713536,
+        "update_time": 1677924941,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
         "stars": 4,
-        "file": "LibFrontendPlay-0.1.0.plugin",
-        "file-url": "plugins/LibFrontendPlay-0.1.0.plugin"
+        "file": "LibFrontendPlay-0.1.1.plugin",
+        "file-url": "plugins/LibFrontendPlay-0.1.1.plugin"
     },
     {
         "name": "LibLyric",

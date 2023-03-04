@@ -72,7 +72,7 @@
         "update_time": 1677328088,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 10,
+        "stars": 11,
         "file": "BGEnhanced-0.2.8.plugin",
         "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
@@ -264,6 +264,7 @@
         "update_time": 1677935011,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
+        "stars": 1,
         "file": "LyricBar-0.1.0.plugin",
         "file-url": "plugins/LyricBar-0.1.0.plugin"
     },
@@ -345,7 +346,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.3.7",
+        "version": "0.3.8",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -357,16 +358,13 @@
             "https://github.com/FlysoftBeta"
         ],
         "type": "theme",
-        "incompatible": [
-            "Apple-Musiclike-lyrics"
-        ],
         "slug": "relive-theme",
-        "update_time": 1677338086,
+        "update_time": 1677942892,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 6,
-        "file": "relive-theme-0.3.7.plugin",
-        "file-url": "plugins/relive-theme-0.3.7.plugin"
+        "file": "relive-theme-0.3.8.plugin",
+        "file-url": "plugins/relive-theme-0.3.8.plugin"
     },
     {
         "name": "RefinedNowPlaying",
@@ -387,7 +385,7 @@
         "update_time": 1677852863,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 146,
+        "stars": 147,
         "file": "RefinedNowPlaying-2.12.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.12.1.plugin"
     },

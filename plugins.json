@@ -249,7 +249,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.1.0",
+        "version": "0.2.0",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -261,12 +261,12 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1677935011,
+        "update_time": 1677963671,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 1,
-        "file": "LyricBar-0.1.0.plugin",
-        "file-url": "plugins/LyricBar-0.1.0.plugin"
+        "stars": 2,
+        "file": "LyricBar-0.2.0.plugin",
+        "file-url": "plugins/LyricBar-0.2.0.plugin"
     },
     {
         "name": "Material You",

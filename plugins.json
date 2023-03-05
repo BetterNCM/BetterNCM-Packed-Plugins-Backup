@@ -43,7 +43,7 @@
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.2.8",
+        "version": "0.2.9",
         "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
         "requirements": [
             "RefinedNowPlaying",
@@ -54,12 +54,12 @@
         "preview": "previews/ark-theme.webp",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1677985141,
+        "update_time": 1678001574,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 4,
-        "file": "ark-theme-0.2.8.plugin",
-        "file-url": "plugins/ark-theme-0.2.8.plugin"
+        "file": "ark-theme-0.2.9.plugin",
+        "file-url": "plugins/ark-theme-0.2.9.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -249,7 +249,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -261,12 +261,12 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1677994490,
+        "update_time": 1678001594,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 6,
-        "file": "LyricBar-0.3.0.plugin",
-        "file-url": "plugins/LyricBar-0.3.0.plugin"
+        "stars": 8,
+        "file": "LyricBar-0.3.1.plugin",
+        "file-url": "plugins/LyricBar-0.3.1.plugin"
     },
     {
         "name": "Material You",

@@ -43,7 +43,7 @@
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.2.7",
+        "version": "0.2.8",
         "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
         "requirements": [
             "RefinedNowPlaying",
@@ -54,12 +54,12 @@
         "preview": "previews/ark-theme.webp",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1677331158,
+        "update_time": 1677985141,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 4,
-        "file": "ark-theme-0.2.7.plugin",
-        "file-url": "plugins/ark-theme-0.2.7.plugin"
+        "file": "ark-theme-0.2.8.plugin",
+        "file-url": "plugins/ark-theme-0.2.8.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -264,7 +264,7 @@
         "update_time": 1677963671,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 2,
+        "stars": 3,
         "file": "LyricBar-0.2.0.plugin",
         "file-url": "plugins/LyricBar-0.2.0.plugin"
     },

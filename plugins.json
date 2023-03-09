@@ -124,6 +124,27 @@
         "file-url": "plugins/FluentProgressBar-0.2.0.plugin"
     },
     {
+        "name": "GPT Trans",
+        "author": "solstice23",
+        "version": "0.3.1",
+        "description": "使用 ChatGPT 翻译歌词",
+        "requirements": [
+            "RefinedNowPlaying"
+        ],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/GPTTrans.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "extension",
+        "slug": "GPTTrans",
+        "update_time": 1678367766,
+        "publish_time": 1678367766,
+        "repo": "solstice23/gpt-trans-netease",
+        "file": "GPTTrans-0.3.1.plugin",
+        "file-url": "plugins/GPTTrans-0.3.1.plugin"
+    },
+    {
         "name": "HideScrollbar",
         "author": "Zinc",
         "version": "2.0.2",
@@ -369,7 +390,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.12.2",
+        "version": "2.12.3",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -382,12 +403,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1678173246,
+        "update_time": 1678367773,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
         "stars": 150,
-        "file": "RefinedNowPlaying-2.12.2.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.12.2.plugin"
+        "file": "RefinedNowPlaying-2.12.3.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.12.3.plugin"
     },
     {
         "name": "纯净分享链接",
@@ -460,7 +481,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 7,
+        "stars": 8,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },

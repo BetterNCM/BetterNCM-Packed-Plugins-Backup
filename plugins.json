@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 84,
+        "stars": 83,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -249,7 +249,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -261,12 +261,12 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1678001594,
+        "update_time": 1678342028,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
         "stars": 8,
-        "file": "LyricBar-0.3.1.plugin",
-        "file-url": "plugins/LyricBar-0.3.1.plugin"
+        "file": "LyricBar-0.3.2.plugin",
+        "file-url": "plugins/LyricBar-0.3.2.plugin"
     },
     {
         "name": "Material You",
@@ -284,7 +284,7 @@
         "update_time": 1677655081,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 86,
+        "stars": 85,
         "file": "MaterialYouTheme-2.4.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.4.4.plugin"
     },
@@ -326,7 +326,7 @@
         "update_time": 1677298753,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 14,
+        "stars": 15,
         "file": "MoTheme-1.2.1.plugin",
         "file-url": "plugins/MoTheme-1.2.1.plugin"
     },
@@ -496,7 +496,7 @@
         "update_time": 1676203381,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 3,
+        "stars": 4,
         "file": "StyleSnippet-0.2.0.plugin",
         "file-url": "plugins/StyleSnippet-0.2.0.plugin"
     },

@@ -77,6 +77,22 @@
         "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
     {
+        "name": "CrossFade LFP [Experimental]",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "在歌曲间添加平滑过渡 (极实验性)",
+        "requirements": [
+            "LibFrontendPlay"
+        ],
+        "preview": "previews/CrossFade-LFP-Experimental.png",
+        "slug": "CrossFade-LFP-Experimental",
+        "update_time": 1678537241,
+        "publish_time": 1678537241,
+        "repo": "BetterNCM/CrossfadeLFP",
+        "file": "CrossFade-LFP-Experimental-0.1.0.plugin",
+        "file-url": "plugins/CrossFade-LFP-Experimental-0.1.0.plugin"
+    },
+    {
         "name": "Customize",
         "author": "Nexmoe",
         "version": "0.3.2",
@@ -448,7 +464,7 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.1.4",
+        "version": "0.2.0",
         "description": "桌面歌词插件，支持逐词，嵌入任务栏",
         "requirements": [
             "liblyric"
@@ -459,13 +475,13 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1677313131,
+        "update_time": 1678537289,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
         "stars": 5,
         "native": true,
-        "file": "RuLyrics-0.1.4.plugin",
-        "file-url": "plugins/RuLyrics-0.1.4.plugin"
+        "file": "RuLyrics-0.2.0.plugin",
+        "file-url": "plugins/RuLyrics-0.2.0.plugin"
     },
     {
         "name": "Search on osu!",

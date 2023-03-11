@@ -43,10 +43,10 @@
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
         "author": "SteveXMH",
-        "version": "2.0.0-dev",
+        "version": "0.0.1",
         "description": "类 Apple Music 歌词显示插件 | 近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
-        "preview": "previews/Apple-Musiclike-lyrics.svg",
+        "preview": "previews/Apple-Musiclike-lyrics-2-0-Beta.svg",
         "author_links": [
             "https://github.com/Steve-xmh",
             "https://github.com/Steve-xmh/applemusic-like-lyrics"
@@ -55,13 +55,13 @@
         "incompatible": [
             "RefinedNowPlaying"
         ],
-        "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1678548311,
+        "slug": "Apple-Musiclike-lyrics-2-0-Beta",
+        "update_time": 1678550143,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
         "stars": 86,
-        "file": "Apple-Musiclike-lyrics-2.0.0-dev.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.0-dev.plugin"
+        "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.1.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.1.plugin"
     },
     {
         "name": "Ark Theme",

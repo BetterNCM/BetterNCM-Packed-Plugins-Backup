@@ -36,14 +36,14 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 83,
+        "stars": 86,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
     {
         "name": "Ark Theme",
         "author": "MicroBlock",
-        "version": "0.2.9",
+        "version": "0.2.10",
         "description": "类 Ark 主题 | 支持亮/暗色主题 | 完美支持 BGEnhanced | 在 StyleSnippet 内修改多项设置",
         "requirements": [
             "RefinedNowPlaying",
@@ -54,12 +54,12 @@
         "preview": "previews/ark-theme.webp",
         "type": "theme",
         "slug": "ark-theme",
-        "update_time": 1678001574,
+        "update_time": 1678537236,
         "publish_time": 1676039117,
         "repo": "BetterNCM/ArkTheme",
         "stars": 4,
-        "file": "ark-theme-0.2.9.plugin",
-        "file-url": "plugins/ark-theme-0.2.9.plugin"
+        "file": "ark-theme-0.2.10.plugin",
+        "file-url": "plugins/ark-theme-0.2.10.plugin"
     },
     {
         "name": "BGEnhanced",
@@ -104,7 +104,7 @@
         "update_time": 1677587488,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 5,
+        "stars": 6,
         "file": "elaina-theme-0.2.16.plugin",
         "file-url": "plugins/elaina-theme-0.2.16.plugin"
     },
@@ -141,6 +141,7 @@
         "update_time": 1678367766,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
+        "stars": 2,
         "file": "GPTTrans-0.3.1.plugin",
         "file-url": "plugins/GPTTrans-0.3.1.plugin"
     },
@@ -305,7 +306,7 @@
         "update_time": 1677655081,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 85,
+        "stars": 84,
         "file": "MaterialYouTheme-2.4.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.4.4.plugin"
     },
@@ -406,7 +407,7 @@
         "update_time": 1678367773,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 150,
+        "stars": 152,
         "file": "RefinedNowPlaying-2.12.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.12.3.plugin"
     },

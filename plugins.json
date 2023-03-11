@@ -79,34 +79,34 @@
     {
         "name": "CrashFix",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "尝试修复一些网易云自身可能导致崩溃的 Bug  (可能会导致内存用量增长 | 不知道好不好使)",
-        "betterncm_version": ">=1.0.2",
+        "betterncm_version": ">=1.1.0",
         "preview": "previews/CrashFix.png",
         "slug": "CrashFix",
-        "update_time": 1678540967,
+        "update_time": 1678542254,
         "publish_time": 1678540030,
         "repo": "BetterNCM/CrashFix",
         "native": true,
-        "file": "CrashFix-0.1.1.plugin",
-        "file-url": "plugins/CrashFix-0.1.1.plugin"
+        "file": "CrashFix-0.1.2.plugin",
+        "file-url": "plugins/CrashFix-0.1.2.plugin"
     },
     {
         "name": "CrossFade LFP [Experimental]",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "在歌曲间添加平滑过渡 (极实验性)",
         "requirements": [
             "LibFrontendPlay"
         ],
         "preview": "previews/crossfade-lfp.png",
         "slug": "crossfade-lfp",
-        "update_time": 1678540036,
+        "update_time": 1678542259,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
         "stars": 1,
-        "file": "crossfade-lfp-0.1.1.plugin",
-        "file-url": "plugins/crossfade-lfp-0.1.1.plugin"
+        "file": "crossfade-lfp-0.1.2.plugin",
+        "file-url": "plugins/crossfade-lfp-0.1.2.plugin"
     },
     {
         "name": "Customize",

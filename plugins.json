@@ -77,20 +77,36 @@
         "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
     {
-        "name": "CrossFade LFP [Experimental]",
+        "name": "CrashFix",
         "author": "MicroBlock",
         "version": "0.1.0",
+        "description": "尝试修复一些网易云自身可能导致崩溃的 Bug  (可能会导致内存用量增长 | 不知道好不好使)",
+        "betterncm_version": ">=1.0.2",
+        "preview": "previews/CrashFix.png",
+        "slug": "CrashFix",
+        "update_time": 1678540030,
+        "publish_time": 1678540030,
+        "repo": "BetterNCM/CrashFix",
+        "native": true,
+        "file": "CrashFix-0.1.0.plugin",
+        "file-url": "plugins/CrashFix-0.1.0.plugin"
+    },
+    {
+        "name": "CrossFade LFP [Experimental]",
+        "author": "MicroBlock",
+        "version": "0.1.1",
         "description": "在歌曲间添加平滑过渡 (极实验性)",
         "requirements": [
             "LibFrontendPlay"
         ],
-        "preview": "previews/CrossFade-LFP-Experimental.png",
-        "slug": "CrossFade-LFP-Experimental",
-        "update_time": 1678537241,
+        "preview": "previews/crossfade-lfp.png",
+        "slug": "crossfade-lfp",
+        "update_time": 1678540036,
         "publish_time": 1678537241,
         "repo": "BetterNCM/CrossfadeLFP",
-        "file": "CrossFade-LFP-Experimental-0.1.0.plugin",
-        "file-url": "plugins/CrossFade-LFP-Experimental-0.1.0.plugin"
+        "stars": 1,
+        "file": "crossfade-lfp-0.1.1.plugin",
+        "file-url": "plugins/crossfade-lfp-0.1.1.plugin"
     },
     {
         "name": "Customize",
@@ -573,19 +589,20 @@
     {
         "name": "明/暗主题切换器",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "切换主题模式 （网易云自身 酷炫黑/白色）",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
         "author_links": [
             "https://github.com/MicroCBer"
         ],
+        "type": "framework",
         "slug": "light-dark-theme-switcher",
-        "update_time": 1677255581,
+        "update_time": 1678540046,
         "publish_time": 1677254264,
         "repo": "BetterNCM/ThemeSwitcher",
-        "file": "light-dark-theme-switcher-0.1.1.plugin",
-        "file-url": "plugins/light-dark-theme-switcher-0.1.1.plugin"
+        "file": "light-dark-theme-switcher-0.1.2.plugin",
+        "file-url": "plugins/light-dark-theme-switcher-0.1.2.plugin"
     },
     {
         "name": "TinyNCM",

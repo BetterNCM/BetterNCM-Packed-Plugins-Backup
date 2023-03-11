@@ -79,17 +79,17 @@
     {
         "name": "CrashFix",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "尝试修复一些网易云自身可能导致崩溃的 Bug  (可能会导致内存用量增长 | 不知道好不好使)",
         "betterncm_version": ">=1.0.2",
         "preview": "previews/CrashFix.png",
         "slug": "CrashFix",
-        "update_time": 1678540030,
+        "update_time": 1678540967,
         "publish_time": 1678540030,
         "repo": "BetterNCM/CrashFix",
         "native": true,
-        "file": "CrashFix-0.1.0.plugin",
-        "file-url": "plugins/CrashFix-0.1.0.plugin"
+        "file": "CrashFix-0.1.1.plugin",
+        "file-url": "plugins/CrashFix-0.1.1.plugin"
     },
     {
         "name": "CrossFade LFP [Experimental]",

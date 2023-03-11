@@ -41,6 +41,29 @@
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
     {
+        "name": "Apple Music-like lyrics 2.0 Beta",
+        "author": "SteveXMH",
+        "version": "2.0.0-dev",
+        "description": "类 Apple Music 歌词显示插件 | 近乎完美的 Apple Music 歌词体验",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/Apple-Musiclike-lyrics.svg",
+        "author_links": [
+            "https://github.com/Steve-xmh",
+            "https://github.com/Steve-xmh/applemusic-like-lyrics"
+        ],
+        "type": "extension",
+        "incompatible": [
+            "RefinedNowPlaying"
+        ],
+        "slug": "Apple-Musiclike-lyrics",
+        "update_time": 1678548311,
+        "publish_time": 1678548311,
+        "repo": "Steve-xmh/applemusic-like-lyrics",
+        "stars": 86,
+        "file": "Apple-Musiclike-lyrics-2.0.0-dev.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.0-dev.plugin"
+    },
+    {
         "name": "Ark Theme",
         "author": "MicroBlock",
         "version": "0.2.10",
@@ -480,7 +503,7 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "description": "桌面歌词插件，支持逐词，嵌入任务栏",
         "requirements": [
             "liblyric"
@@ -491,13 +514,13 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1678537289,
+        "update_time": 1678548303,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 5,
+        "stars": 6,
         "native": true,
-        "file": "RuLyrics-0.2.0.plugin",
-        "file-url": "plugins/RuLyrics-0.2.0.plugin"
+        "file": "RuLyrics-0.2.1.plugin",
+        "file-url": "plugins/RuLyrics-0.2.1.plugin"
     },
     {
         "name": "Search on osu!",

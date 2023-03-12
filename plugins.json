@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 86,
+        "stars": 87,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -59,7 +59,7 @@
         "update_time": 1678550143,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 86,
+        "stars": 87,
         "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.1.plugin"
     },
@@ -197,7 +197,7 @@
         "update_time": 1678367766,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
-        "stars": 2,
+        "stars": 3,
         "file": "GPTTrans-0.3.1.plugin",
         "file-url": "plugins/GPTTrans-0.3.1.plugin"
     },
@@ -420,6 +420,20 @@
         "publish_time": 1670425948,
         "file": "MoreHooks-0.1.0.plugin",
         "file-url": "plugins/MoreHooks-0.1.0.plugin"
+    },
+    {
+        "name": "Play With Bilibili MV",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "自动在背景播放 Bilibili MV",
+        "requirements": [],
+        "preview": "previews/play-with-bilibili.png",
+        "slug": "play-with-bilibili",
+        "update_time": 1678598537,
+        "publish_time": 1678598537,
+        "repo": "BetterNCM/PlayWithBilibili",
+        "file": "play-with-bilibili-0.1.0.plugin",
+        "file-url": "plugins/play-with-bilibili-0.1.0.plugin"
     },
     {
         "name": "ReLive",

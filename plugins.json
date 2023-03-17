@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 92,
+        "stars": 91,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -59,7 +59,7 @@
         "update_time": 1678634069,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 92,
+        "stars": 91,
         "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.2.plugin"
     },
@@ -95,7 +95,7 @@
         "update_time": 1677328088,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
-        "stars": 12,
+        "stars": 13,
         "file": "BGEnhanced-0.2.8.plugin",
         "file-url": "plugins/BGEnhanced-0.2.8.plugin"
     },
@@ -145,7 +145,7 @@
         "update_time": 1675565331,
         "publish_time": 1675326244,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 1,
+        "stars": 2,
         "file": "Customize-0.3.2.plugin",
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
@@ -176,7 +176,7 @@
         "update_time": 1675610797,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
-        "stars": 6,
+        "stars": 7,
         "file": "FluentProgressBar-0.2.0.plugin",
         "file-url": "plugins/FluentProgressBar-0.2.0.plugin"
     },
@@ -198,7 +198,7 @@
         "update_time": 1678367766,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
-        "stars": 6,
+        "stars": 7,
         "file": "GPTTrans-0.3.1.plugin",
         "file-url": "plugins/GPTTrans-0.3.1.plugin"
     },
@@ -343,7 +343,7 @@
         "update_time": 1678342028,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 8,
+        "stars": 9,
         "file": "LyricBar-0.3.2.plugin",
         "file-url": "plugins/LyricBar-0.3.2.plugin"
     },
@@ -456,7 +456,7 @@
         "update_time": 1677942892,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 6,
+        "stars": 7,
         "file": "relive-theme-0.3.8.plugin",
         "file-url": "plugins/relive-theme-0.3.8.plugin"
     },
@@ -479,7 +479,7 @@
         "update_time": 1678568808,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 158,
+        "stars": 163,
         "file": "RefinedNowPlaying-2.13.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.13.0.plugin"
     },
@@ -555,7 +555,7 @@
         "update_time": 1675852486,
         "publish_time": 1675852486,
         "repo": "solstice23/search-on-osu",
-        "stars": 9,
+        "stars": 8,
         "file": "search-on-osu-0.7.2.7.plugin",
         "file-url": "plugins/search-on-osu-0.7.2.7.plugin"
     },
@@ -575,6 +575,7 @@
         "update_time": 1678770213,
         "publish_time": 1678770213,
         "repo": "xy-cloud-cn/search-this-singer",
+        "stars": 1,
         "file": "search-this-singer-0.0.1.plugin",
         "file-url": "plugins/search-this-singer-0.0.1.plugin"
     },
@@ -631,10 +632,9 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "在任务栏上嵌入歌词，目前仅建议Windows 11",
         "requirements": [
-            "libsonginfo",
             "liblyric"
         ],
         "preview": "previews/Taskbar-Lyrics.png",
@@ -643,12 +643,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1678792489,
+        "update_time": 1678983872,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 35,
-        "file": "Taskbar-Lyrics-1.5.1.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.5.1.plugin"
+        "stars": 36,
+        "file": "Taskbar-Lyrics-1.5.2.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.5.2.plugin"
     },
     {
         "name": "明/暗主题切换器",
@@ -679,7 +679,7 @@
         "update_time": 1672509481,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 1,
+        "stars": 2,
         "file": "TinyNCM-0.2.3.plugin",
         "file-url": "plugins/TinyNCM-0.2.3.plugin"
     },

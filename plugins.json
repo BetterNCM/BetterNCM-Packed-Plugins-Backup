@@ -43,7 +43,7 @@
     {
         "name": "Apple Music-like lyrics 2.0 Beta",
         "author": "SteveXMH",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "description": "类 Apple Music 歌词页面插件|测试版|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics-2-0-Beta.svg",
@@ -56,12 +56,12 @@
             "RefinedNowPlaying"
         ],
         "slug": "Apple-Musiclike-lyrics-2-0-Beta",
-        "update_time": 1678634069,
+        "update_time": 1679059311,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
         "stars": 91,
-        "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.2.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.2.plugin"
+        "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin"
     },
     {
         "name": "Ark Theme",
@@ -363,7 +363,7 @@
         "update_time": 1678568658,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 84,
+        "stars": 85,
         "file": "MaterialYouTheme-2.5.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.5.0.plugin"
     },
@@ -479,7 +479,7 @@
         "update_time": 1678568808,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 163,
+        "stars": 164,
         "file": "RefinedNowPlaying-2.13.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.13.0.plugin"
     },
@@ -646,7 +646,7 @@
         "update_time": 1678983872,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 36,
+        "stars": 37,
         "file": "Taskbar-Lyrics-1.5.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.2.plugin"
     },

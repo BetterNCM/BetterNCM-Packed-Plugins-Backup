@@ -329,6 +329,24 @@
         "file-url": "plugins/libsonginfo-1.0.0.plugin"
     },
     {
+        "name": "ListScrollFix",
+        "author": "solstice23",
+        "version": "0.1.0",
+        "description": "修复歌单列表滚动的跳动",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/list-scroll-fix.png",
+        "author_links": [
+            "https://github.com/solstice23"
+        ],
+        "type": "lib",
+        "slug": "list-scroll-fix",
+        "update_time": 1679128697,
+        "publish_time": 1679128697,
+        "repo": "BetterNCM/list-scroll-fix",
+        "file": "list-scroll-fix-0.1.0.plugin",
+        "file-url": "plugins/list-scroll-fix-0.1.0.plugin"
+    },
+    {
         "name": "LiveSongPlayer",
         "author": "MicroBlock",
         "version": "0.1.7",

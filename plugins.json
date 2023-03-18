@@ -168,19 +168,19 @@
     {
         "name": "FluentMusicCover",
         "author": "MicroBlock",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
         "requirements": [
-            "ListScrollFix"
+            "list-scroll-fix"
         ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679156339,
+        "update_time": 1679160825,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "file": "FluentMusicCover-1.1.1.plugin",
-        "file-url": "plugins/FluentMusicCover-1.1.1.plugin"
+        "file": "FluentMusicCover-1.1.2.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.2.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -428,12 +428,12 @@
     {
         "name": "MoTheme",
         "author": "沫烬染",
-        "version": "1.2.2",
+        "version": "1.2.3",
         "description": "主题插件，用于美化网易云音乐（更换背景使用BGEnhanced插件，切换颜色使用明/暗主题切换器插件）",
         "requirements": [
             "StylesheetLoader",
             "light-dark-theme-switcher",
-            "ListScrollFix"
+            "list-scroll-fix"
         ],
         "preview": "previews/MoTheme.png",
         "author_links": [
@@ -441,12 +441,12 @@
         ],
         "type": "theme",
         "slug": "MoTheme",
-        "update_time": 1679152462,
+        "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
         "stars": 17,
-        "file": "MoTheme-1.2.2.plugin",
-        "file-url": "plugins/MoTheme-1.2.2.plugin"
+        "file": "MoTheme-1.2.3.plugin",
+        "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
     {
         "name": "MoreHooks",
@@ -777,10 +777,10 @@
     {
         "name": "这首歌的封面是什么？",
         "author": "沫烬染",
-        "version": "2.0.6",
+        "version": "2.0.7",
         "description": "歌曲列表添加音乐封面。位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
         "requirements": [
-            "ListScrollFix"
+            "list-scroll-fix"
         ],
         "preview": "previews/What-is-the-cover-of-this-music.png",
         "author_links": [
@@ -788,12 +788,12 @@
         ],
         "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1679152479,
+        "update_time": 1679160840,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
         "stars": 9,
-        "file": "What-is-the-cover-of-this-music-2.0.6.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.6.plugin"
+        "file": "What-is-the-cover-of-this-music-2.0.7.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.7.plugin"
     },
     {
         "name": "Microrange",

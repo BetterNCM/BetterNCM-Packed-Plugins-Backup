@@ -439,17 +439,17 @@
     {
         "name": "Play with Bilibili MV",
         "author": "MicroBlock",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "自动在背景播放 Bilibili MV",
         "requirements": [],
         "preview": "previews/play-with-bilibili.png",
         "slug": "play-with-bilibili",
-        "update_time": 1679123584,
+        "update_time": 1679128429,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
         "stars": 2,
-        "file": "play-with-bilibili-1.0.1.plugin",
-        "file-url": "plugins/play-with-bilibili-1.0.1.plugin"
+        "file": "play-with-bilibili-1.0.2.plugin",
+        "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
     },
     {
         "name": "ReLive",

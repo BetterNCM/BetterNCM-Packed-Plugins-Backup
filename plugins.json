@@ -87,17 +87,17 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.8",
+        "version": "0.2.10",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1677328088,
+        "update_time": 1679159580,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 13,
-        "file": "BGEnhanced-0.2.8.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.8.plugin"
+        "file": "BGEnhanced-0.2.10.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.10.plugin"
     },
     {
         "name": "CrashFix",
@@ -168,16 +168,19 @@
     {
         "name": "FluentMusicCover",
         "author": "MicroBlock",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
+        "requirements": [
+            "ListScrollFix"
+        ],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679127496,
+        "update_time": 1679156339,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "file": "FluentMusicCover-1.1.0.plugin",
-        "file-url": "plugins/FluentMusicCover-1.1.0.plugin"
+        "file": "FluentMusicCover-1.1.1.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.1.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -425,11 +428,12 @@
     {
         "name": "MoTheme",
         "author": "沫烬染",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "description": "主题插件，用于美化网易云音乐（更换背景使用BGEnhanced插件，切换颜色使用明/暗主题切换器插件）",
         "requirements": [
             "StylesheetLoader",
-            "light-dark-theme-switcher"
+            "light-dark-theme-switcher",
+            "ListScrollFix"
         ],
         "preview": "previews/MoTheme.png",
         "author_links": [
@@ -437,12 +441,12 @@
         ],
         "type": "theme",
         "slug": "MoTheme",
-        "update_time": 1677298753,
+        "update_time": 1679152462,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
         "stars": 17,
-        "file": "MoTheme-1.2.1.plugin",
-        "file-url": "plugins/MoTheme-1.2.1.plugin"
+        "file": "MoTheme-1.2.2.plugin",
+        "file-url": "plugins/MoTheme-1.2.2.plugin"
     },
     {
         "name": "MoreHooks",
@@ -668,7 +672,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.5.3",
+        "version": "1.5.4",
         "description": "在任务栏上嵌入歌词，目前仅建议Windows 11",
         "requirements": [
             "liblyric"
@@ -679,12 +683,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1679070065,
+        "update_time": 1679152473,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 37,
-        "file": "Taskbar-Lyrics-1.5.3.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.5.3.plugin"
+        "file": "Taskbar-Lyrics-1.5.4.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.5.4.plugin"
     },
     {
         "name": "明/暗主题切换器",
@@ -773,20 +777,23 @@
     {
         "name": "这首歌的封面是什么？",
         "author": "沫烬染",
-        "version": "2.0.5",
+        "version": "2.0.6",
         "description": "歌曲列表添加音乐封面。位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
+        "requirements": [
+            "ListScrollFix"
+        ],
         "preview": "previews/What-is-the-cover-of-this-music.png",
         "author_links": [
             "https://github.com/mo-jinran"
         ],
         "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1675606358,
+        "update_time": 1679152479,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
         "stars": 9,
-        "file": "What-is-the-cover-of-this-music-2.0.5.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.5.plugin"
+        "file": "What-is-the-cover-of-this-music-2.0.6.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.6.plugin"
     },
     {
         "name": "Microrange",

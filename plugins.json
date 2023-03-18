@@ -166,6 +166,20 @@
         "file-url": "plugins/elaina-theme-0.2.16.plugin"
     },
     {
+        "name": "FluentMusicCover",
+        "author": "MicroBlock",
+        "version": "1.0.0",
+        "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/FluentMusicCover.png",
+        "slug": "FluentMusicCover",
+        "update_time": 1679121837,
+        "publish_time": 1679121837,
+        "repo": "BetterNCM/FluentMusicCover",
+        "file": "FluentMusicCover-1.0.0.plugin",
+        "file-url": "plugins/FluentMusicCover-1.0.0.plugin"
+    },
+    {
         "name": "FluentProgressBar",
         "author": "MicroBlock & Solstice23",
         "version": "0.2.0",

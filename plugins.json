@@ -343,6 +343,7 @@
         "update_time": 1679128697,
         "publish_time": 1679128697,
         "repo": "BetterNCM/list-scroll-fix",
+        "stars": 1,
         "file": "list-scroll-fix-0.1.0.plugin",
         "file-url": "plugins/list-scroll-fix-0.1.0.plugin"
     },
@@ -553,7 +554,7 @@
     {
         "name": "RuLyrics",
         "author": "MicroBlock",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "description": "桌面歌词插件，支持逐词，嵌入任务栏",
         "requirements": [
             "liblyric"
@@ -564,13 +565,13 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1678548303,
+        "update_time": 1679142440,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
         "stars": 6,
         "native": true,
-        "file": "RuLyrics-0.2.1.plugin",
-        "file-url": "plugins/RuLyrics-0.2.1.plugin"
+        "file": "RuLyrics-0.2.2.plugin",
+        "file-url": "plugins/RuLyrics-0.2.2.plugin"
     },
     {
         "name": "Search on osu!",

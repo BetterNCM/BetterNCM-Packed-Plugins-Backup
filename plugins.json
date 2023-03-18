@@ -259,16 +259,16 @@
     {
         "name": "LibFrontendPlay",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "1.0.0",
         "description": "在前端播放音乐，而不是 C++ 后端！\n【支持 AMLL 音频可视化视效】",
         "betterncm_version": ">=1.0.0",
         "slug": "LibFrontendPlay",
-        "update_time": 1677924941,
+        "update_time": 1679084172,
         "publish_time": 1673713536,
         "repo": "BetterNCM/LibFrontendPlay",
         "stars": 4,
-        "file": "LibFrontendPlay-0.1.1.plugin",
-        "file-url": "plugins/LibFrontendPlay-0.1.1.plugin"
+        "file": "LibFrontendPlay-1.0.0.plugin",
+        "file-url": "plugins/LibFrontendPlay-1.0.0.plugin"
     },
     {
         "name": "LibLyric",
@@ -479,7 +479,7 @@
         "update_time": 1679072510,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 164,
+        "stars": 165,
         "file": "RefinedNowPlaying-2.14.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.14.1.plugin"
     },

@@ -168,16 +168,16 @@
     {
         "name": "FluentMusicCover",
         "author": "MicroBlock",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679121837,
+        "update_time": 1679123572,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "file": "FluentMusicCover-1.0.0.plugin",
-        "file-url": "plugins/FluentMusicCover-1.0.0.plugin"
+        "file": "FluentMusicCover-1.0.1.plugin",
+        "file-url": "plugins/FluentMusicCover-1.0.1.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -439,17 +439,17 @@
     {
         "name": "Play with Bilibili MV",
         "author": "MicroBlock",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "自动在背景播放 Bilibili MV",
         "requirements": [],
         "preview": "previews/play-with-bilibili.png",
         "slug": "play-with-bilibili",
-        "update_time": 1679077087,
+        "update_time": 1679123584,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
         "stars": 2,
-        "file": "play-with-bilibili-1.0.0.plugin",
-        "file-url": "plugins/play-with-bilibili-1.0.0.plugin"
+        "file": "play-with-bilibili-1.0.1.plugin",
+        "file-url": "plugins/play-with-bilibili-1.0.1.plugin"
     },
     {
         "name": "ReLive",

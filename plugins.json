@@ -168,16 +168,16 @@
     {
         "name": "FluentMusicCover",
         "author": "MicroBlock",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679123572,
+        "update_time": 1679127496,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "file": "FluentMusicCover-1.0.1.plugin",
-        "file-url": "plugins/FluentMusicCover-1.0.1.plugin"
+        "file": "FluentMusicCover-1.1.0.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.0.plugin"
     },
     {
         "name": "FluentProgressBar",

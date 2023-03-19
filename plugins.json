@@ -167,8 +167,8 @@
     },
     {
         "name": "FluentMusicCover",
-        "author": "MicroBlock",
-        "version": "1.1.2",
+        "author": "MicroBlock & solstice23",
+        "version": "1.1.3",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
         "requirements": [
             "list-scroll-fix"
@@ -176,11 +176,11 @@
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679160825,
+        "update_time": 1679199140,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "file": "FluentMusicCover-1.1.2.plugin",
-        "file-url": "plugins/FluentMusicCover-1.1.2.plugin"
+        "file": "FluentMusicCover-1.1.3.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.3.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -421,7 +421,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 10,
+        "stars": 11,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -559,10 +559,10 @@
         "file-url": "plugins/RoundCornerNCM-0.1.2.plugin"
     },
     {
-        "name": "RuLyrics",
+        "name": "RuLyrics [支持 Win11 新/老任务栏]",
         "author": "MicroBlock",
-        "version": "0.2.2",
-        "description": "桌面歌词插件，支持逐词，嵌入任务栏",
+        "version": "0.3.0",
+        "description": "桌面歌词插件，支持逐词，嵌入任务栏 【支持 Win11 新/老任务栏，Win10】",
         "requirements": [
             "liblyric"
         ],
@@ -572,13 +572,13 @@
             "https://github.com/MicroCBer"
         ],
         "slug": "RuLyrics",
-        "update_time": 1679142440,
+        "update_time": 1679199151,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
         "stars": 6,
         "native": true,
-        "file": "RuLyrics-0.2.2.plugin",
-        "file-url": "plugins/RuLyrics-0.2.2.plugin"
+        "file": "RuLyrics-0.3.0.plugin",
+        "file-url": "plugins/RuLyrics-0.3.0.plugin"
     },
     {
         "name": "Search on osu!",

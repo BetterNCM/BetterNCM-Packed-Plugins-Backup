@@ -152,18 +152,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.16",
+        "version": "0.2.17",
         "description": "Elaina elements & Collection of functions.",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1677587488,
+        "update_time": 1679170517,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 7,
-        "file": "elaina-theme-0.2.16.plugin",
-        "file-url": "plugins/elaina-theme-0.2.16.plugin"
+        "file": "elaina-theme-0.2.17.plugin",
+        "file-url": "plugins/elaina-theme-0.2.17.plugin"
     },
     {
         "name": "FluentMusicCover",

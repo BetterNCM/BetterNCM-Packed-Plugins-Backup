@@ -615,7 +615,7 @@
         "update_time": 1678770213,
         "publish_time": 1678770213,
         "repo": "xy-cloud-cn/search-this-singer",
-        "stars": 1,
+        "stars": 2,
         "file": "search-this-singer-0.0.1.plugin",
         "file-url": "plugins/search-this-singer-0.0.1.plugin"
     },
@@ -777,15 +777,15 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679230174,
+        "update_time": 1679240767,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "file": "vocaloid-info-1.0.0.plugin",
-        "file-url": "plugins/vocaloid-info-1.0.0.plugin"
+        "file": "vocaloid-info-1.0.1.plugin",
+        "file-url": "plugins/vocaloid-info-1.0.1.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

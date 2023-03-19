@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 91,
+        "stars": 92,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -59,7 +59,7 @@
         "update_time": 1679059311,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 91,
+        "stars": 92,
         "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin"
     },
@@ -87,17 +87,17 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.10",
+        "version": "0.2.11",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1679159580,
+        "update_time": 1679193966,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 13,
-        "file": "BGEnhanced-0.2.10.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.10.plugin"
+        "file": "BGEnhanced-0.2.11.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.11.plugin"
     },
     {
         "name": "CrashFix",

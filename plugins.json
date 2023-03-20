@@ -472,7 +472,7 @@
         "update_time": 1679128429,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
-        "stars": 2,
+        "stars": 3,
         "file": "play-with-bilibili-1.0.2.plugin",
         "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
     },
@@ -575,7 +575,7 @@
         "update_time": 1679205848,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 7,
+        "stars": 8,
         "native": true,
         "file": "RuLyrics-0.3.4.plugin",
         "file-url": "plugins/RuLyrics-0.3.4.plugin"
@@ -686,7 +686,7 @@
         "update_time": 1679152473,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 37,
+        "stars": 39,
         "file": "Taskbar-Lyrics-1.5.4.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.4.plugin"
     },
@@ -777,15 +777,16 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679240767,
+        "update_time": 1679318604,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
-        "file": "vocaloid-info-1.0.1.plugin",
-        "file-url": "plugins/vocaloid-info-1.0.1.plugin"
+        "stars": 2,
+        "file": "vocaloid-info-1.1.0.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.0.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

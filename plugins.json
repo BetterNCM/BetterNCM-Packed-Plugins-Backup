@@ -145,7 +145,7 @@
         "update_time": 1675565331,
         "publish_time": 1675326244,
         "repo": "nexmoe/betterncm-plugin-customize",
-        "stars": 2,
+        "stars": 3,
         "file": "Customize-0.3.2.plugin",
         "file-url": "plugins/Customize-0.3.2.plugin"
     },
@@ -719,7 +719,7 @@
         "update_time": 1672509481,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 2,
+        "stars": 3,
         "file": "TinyNCM-0.2.3.plugin",
         "file-url": "plugins/TinyNCM-0.2.3.plugin"
     },
@@ -777,16 +777,16 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679318604,
+        "update_time": 1679325414,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
         "stars": 2,
-        "file": "vocaloid-info-1.1.0.plugin",
-        "file-url": "plugins/vocaloid-info-1.1.0.plugin"
+        "file": "vocaloid-info-1.1.1.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.1.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

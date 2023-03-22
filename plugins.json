@@ -168,7 +168,7 @@
     {
         "name": "FluentMusicCover",
         "author": "MicroBlock & solstice23",
-        "version": "1.1.3",
+        "version": "1.1.4",
         "description": "展示歌单内歌曲封面，且尽量保证不造成卡顿",
         "requirements": [
             "list-scroll-fix"
@@ -176,12 +176,12 @@
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentMusicCover.png",
         "slug": "FluentMusicCover",
-        "update_time": 1679199140,
+        "update_time": 1679498164,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
         "stars": 1,
-        "file": "FluentMusicCover-1.1.3.plugin",
-        "file-url": "plugins/FluentMusicCover-1.1.3.plugin"
+        "file": "FluentMusicCover-1.1.4.plugin",
+        "file-url": "plugins/FluentMusicCover-1.1.4.plugin"
     },
     {
         "name": "FluentProgressBar",
@@ -687,7 +687,7 @@
         "update_time": 1679418616,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 40,
+        "stars": 42,
         "file": "Taskbar-Lyrics-1.5.5.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.5.plugin"
     },
@@ -778,16 +778,16 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.1.3",
+        "version": "1.1.4",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679488120,
+        "update_time": 1679498181,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
         "stars": 2,
-        "file": "vocaloid-info-1.1.3.plugin",
-        "file-url": "plugins/vocaloid-info-1.1.3.plugin"
+        "file": "vocaloid-info-1.1.4.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.4.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

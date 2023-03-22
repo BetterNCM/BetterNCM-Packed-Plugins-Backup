@@ -387,7 +387,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.5.1",
+        "version": "2.5.2",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -399,12 +399,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1679145503,
+        "update_time": 1679461542,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 85,
-        "file": "MaterialYouTheme-2.5.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.5.1.plugin"
+        "file": "MaterialYouTheme-2.5.2.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.5.2.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -520,7 +520,7 @@
         "update_time": 1679330092,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 168,
+        "stars": 169,
         "file": "RefinedNowPlaying-2.14.2.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.14.2.plugin"
     },

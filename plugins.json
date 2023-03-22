@@ -673,8 +673,8 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.5.5",
-        "description": "在任务栏上嵌入歌词，目前仅建议Windows 11",
+        "version": "1.5.6",
+        "description": "在任务栏上嵌入歌词，目前仅建议Windows 11（修好了用不了的问题~",
         "requirements": [
             "liblyric"
         ],
@@ -684,12 +684,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1679418616,
+        "update_time": 1679499755,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 42,
-        "file": "Taskbar-Lyrics-1.5.5.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.5.5.plugin"
+        "file": "Taskbar-Lyrics-1.5.6.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.5.6.plugin"
     },
     {
         "name": "明/暗主题切换器",

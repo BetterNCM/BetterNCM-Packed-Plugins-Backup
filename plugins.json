@@ -778,16 +778,16 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679325414,
+        "update_time": 1679418623,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
         "stars": 2,
-        "file": "vocaloid-info-1.1.1.plugin",
-        "file-url": "plugins/vocaloid-info-1.1.1.plugin"
+        "file": "vocaloid-info-1.1.2.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.2.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

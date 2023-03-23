@@ -402,7 +402,7 @@
         "update_time": 1679461542,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 85,
+        "stars": 86,
         "file": "MaterialYouTheme-2.5.2.plugin",
         "file-url": "plugins/MaterialYouTheme-2.5.2.plugin"
     },
@@ -504,7 +504,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.14.3",
+        "version": "2.15.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -517,12 +517,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1679483500,
+        "update_time": 1679554514,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 170,
-        "file": "RefinedNowPlaying-2.14.3.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.14.3.plugin"
+        "stars": 171,
+        "file": "RefinedNowPlaying-2.15.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.15.0.plugin"
     },
     {
         "name": "纯净分享链接",

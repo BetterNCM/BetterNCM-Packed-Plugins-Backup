@@ -402,7 +402,7 @@
         "update_time": 1679461542,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 86,
+        "stars": 87,
         "file": "MaterialYouTheme-2.5.2.plugin",
         "file-url": "plugins/MaterialYouTheme-2.5.2.plugin"
     },
@@ -480,7 +480,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.4.3",
+        "version": "0.5.0",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -493,13 +493,16 @@
             "https://github.com/FlysoftBeta"
         ],
         "type": "theme",
+        "incompatible": [
+            "light-dark-theme-switcher"
+        ],
         "slug": "relive-theme",
-        "update_time": 1679585709,
+        "update_time": 1679666741,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 7,
-        "file": "relive-theme-0.4.3.plugin",
-        "file-url": "plugins/relive-theme-0.4.3.plugin"
+        "file": "relive-theme-0.5.0.plugin",
+        "file-url": "plugins/relive-theme-0.5.0.plugin"
     },
     {
         "name": "RefinedNowPlaying",
@@ -520,7 +523,7 @@
         "update_time": 1679577650,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 171,
+        "stars": 172,
         "file": "RefinedNowPlaying-2.15.1.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.15.1.plugin"
     },

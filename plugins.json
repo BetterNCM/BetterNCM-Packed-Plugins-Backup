@@ -240,18 +240,18 @@
     {
         "name": "InfLink",
         "author": "MicroBlock",
-        "version": "0.1.7",
+        "version": "0.1.8",
         "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLink.png",
         "slug": "InfLink",
-        "update_time": 1679677080,
+        "update_time": 1679677392,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
         "stars": 7,
         "native": true,
-        "file": "InfLink-0.1.7.plugin",
-        "file-url": "plugins/InfLink-0.1.7.plugin"
+        "file": "InfLink-0.1.8.plugin",
+        "file-url": "plugins/InfLink-0.1.8.plugin"
     },
     {
         "name": "LibEAPIRequest",

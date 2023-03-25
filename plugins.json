@@ -480,7 +480,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.5.2",
+        "version": "0.5.3",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -497,12 +497,12 @@
             "light-dark-theme-switcher"
         ],
         "slug": "relive-theme",
-        "update_time": 1679715291,
+        "update_time": 1679718724,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 7,
-        "file": "relive-theme-0.5.2.plugin",
-        "file-url": "plugins/relive-theme-0.5.2.plugin"
+        "file": "relive-theme-0.5.3.plugin",
+        "file-url": "plugins/relive-theme-0.5.3.plugin"
     },
     {
         "name": "RefinedNowPlaying",

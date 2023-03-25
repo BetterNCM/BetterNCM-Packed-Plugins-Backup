@@ -402,7 +402,7 @@
         "update_time": 1679689137,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 87,
+        "stars": 88,
         "file": "MaterialYouTheme-2.6.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.6.0.plugin"
     },
@@ -480,7 +480,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.5.1",
+        "version": "0.5.2",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -497,12 +497,12 @@
             "light-dark-theme-switcher"
         ],
         "slug": "relive-theme",
-        "update_time": 1679673830,
+        "update_time": 1679715291,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 7,
-        "file": "relive-theme-0.5.1.plugin",
-        "file-url": "plugins/relive-theme-0.5.1.plugin"
+        "file": "relive-theme-0.5.2.plugin",
+        "file-url": "plugins/relive-theme-0.5.2.plugin"
     },
     {
         "name": "RefinedNowPlaying",
@@ -606,7 +606,7 @@
     {
         "name": "找到这个歌手",
         "author": "xy_cloud",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "description": "在5sing,微博,bilibili搜索歌手(5s钟内,我要这个人的所有信息!(×))",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -616,12 +616,12 @@
         ],
         "type": "extension",
         "slug": "search-this-singer",
-        "update_time": 1678770213,
+        "update_time": 1679716271,
         "publish_time": 1678770213,
         "repo": "xy-cloud-cn/search-this-singer",
         "stars": 2,
-        "file": "search-this-singer-0.0.1.plugin",
-        "file-url": "plugins/search-this-singer-0.0.1.plugin"
+        "file": "search-this-singer-0.0.2.plugin",
+        "file-url": "plugins/search-this-singer-0.0.2.plugin"
     },
     {
         "name": "SimpleAudioVisualizer",

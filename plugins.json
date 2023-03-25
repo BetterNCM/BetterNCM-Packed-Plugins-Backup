@@ -387,7 +387,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.6.1",
+        "version": "2.6.2",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -399,12 +399,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1679741822,
+        "update_time": 1679753242,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 88,
-        "file": "MaterialYouTheme-2.6.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.6.1.plugin"
+        "file": "MaterialYouTheme-2.6.2.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.6.2.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -690,7 +690,7 @@
         "update_time": 1679499755,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 43,
+        "stars": 44,
         "file": "Taskbar-Lyrics-1.5.6.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.6.plugin"
     },
@@ -795,8 +795,8 @@
     {
         "name": "这首歌的封面是什么？",
         "author": "沫烬染",
-        "version": "2.0.7",
-        "description": "歌曲列表添加音乐封面。位置：每日推荐，听歌排行，搜索列表，歌手专辑，歌单列表",
+        "version": "2.0.8",
+        "description": "歌曲列表添加封面，位置：每日推荐，听歌排行，搜索列表，歌手详情，音乐专辑，歌单列表",
         "requirements": [
             "list-scroll-fix"
         ],
@@ -806,12 +806,12 @@
         ],
         "type": "extension",
         "slug": "What-is-the-cover-of-this-music",
-        "update_time": 1679160840,
+        "update_time": 1679753235,
         "publish_time": 1672504198,
         "repo": "mo-jinran/What-is-the-cover-of-this-music",
         "stars": 9,
-        "file": "What-is-the-cover-of-this-music-2.0.7.plugin",
-        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.7.plugin"
+        "file": "What-is-the-cover-of-this-music-2.0.8.plugin",
+        "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
     },
     {
         "name": "Microrange",

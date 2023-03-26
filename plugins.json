@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 95,
+        "stars": 96,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -59,7 +59,7 @@
         "update_time": 1679059311,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 95,
+        "stars": 96,
         "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.3.plugin"
     },
@@ -500,14 +500,14 @@
         "update_time": 1679718724,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 7,
+        "stars": 8,
         "file": "relive-theme-0.5.3.plugin",
         "file-url": "plugins/relive-theme-0.5.3.plugin"
     },
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.15.3",
+        "version": "2.16.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -520,12 +520,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1679765511,
+        "update_time": 1679850221,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 173,
-        "file": "RefinedNowPlaying-2.15.3.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.15.3.plugin"
+        "stars": 175,
+        "file": "RefinedNowPlaying-2.16.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.16.0.plugin"
     },
     {
         "name": "纯净分享链接",

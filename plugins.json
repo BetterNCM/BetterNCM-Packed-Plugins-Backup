@@ -201,7 +201,7 @@
     {
         "name": "GPT Trans",
         "author": "solstice23",
-        "version": "0.3.1",
+        "version": "0.4.0",
         "description": "使用 ChatGPT 翻译歌词",
         "requirements": [
             "RefinedNowPlaying"
@@ -213,12 +213,12 @@
         ],
         "type": "extension",
         "slug": "GPTTrans",
-        "update_time": 1678367766,
+        "update_time": 1680020859,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
         "stars": 8,
-        "file": "GPTTrans-0.3.1.plugin",
-        "file-url": "plugins/GPTTrans-0.3.1.plugin"
+        "file": "GPTTrans-0.4.0.plugin",
+        "file-url": "plugins/GPTTrans-0.4.0.plugin"
     },
     {
         "name": "HideScrollbar",

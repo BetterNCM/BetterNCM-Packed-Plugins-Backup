@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 98,
+        "stars": 99,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -59,7 +59,7 @@
         "update_time": 1680109236,
         "publish_time": 1678548311,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 98,
+        "stars": 99,
         "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin"
     },
@@ -365,7 +365,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.3.2",
+        "version": "0.3.3",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -377,17 +377,17 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1678342028,
+        "update_time": 1680272545,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
         "stars": 9,
-        "file": "LyricBar-0.3.2.plugin",
-        "file-url": "plugins/LyricBar-0.3.2.plugin"
+        "file": "LyricBar-0.3.3.plugin",
+        "file-url": "plugins/LyricBar-0.3.3.plugin"
     },
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.6.2",
+        "version": "2.6.3",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -399,12 +399,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1679753242,
+        "update_time": 1680272552,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 90,
-        "file": "MaterialYouTheme-2.6.2.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.6.2.plugin"
+        "stars": 91,
+        "file": "MaterialYouTheme-2.6.3.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.6.3.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -473,7 +473,7 @@
         "update_time": 1679128429,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
-        "stars": 3,
+        "stars": 4,
         "file": "play-with-bilibili-1.0.2.plugin",
         "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
     },
@@ -523,7 +523,7 @@
         "update_time": 1680109245,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 177,
+        "stars": 179,
         "file": "RefinedNowPlaying-2.16.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.16.4.plugin"
     },
@@ -723,7 +723,7 @@
         "update_time": 1679725086,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 3,
+        "stars": 4,
         "file": "TinyNCM-1.0.0.plugin",
         "file-url": "plugins/TinyNCM-1.0.0.plugin"
     },

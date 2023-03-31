@@ -41,29 +41,6 @@
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
     {
-        "name": "Apple Music-like lyrics 2.0 Beta",
-        "author": "SteveXMH",
-        "version": "0.0.4",
-        "description": "类 Apple Music 歌词页面插件|测试版|近乎完美的 Apple Music 歌词体验",
-        "betterncm_version": ">=1.0.0",
-        "preview": "previews/Apple-Musiclike-lyrics-2-0-Beta.svg",
-        "author_links": [
-            "https://github.com/Steve-xmh",
-            "https://github.com/Steve-xmh/applemusic-like-lyrics"
-        ],
-        "type": "extension",
-        "incompatible": [
-            "RefinedNowPlaying"
-        ],
-        "slug": "Apple-Musiclike-lyrics-2-0-Beta",
-        "update_time": 1680109236,
-        "publish_time": 1678548311,
-        "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 99,
-        "file": "Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2-0-Beta-0.0.4.plugin"
-    },
-    {
         "name": "Ark Theme",
         "author": "MicroBlock",
         "version": "0.2.10",

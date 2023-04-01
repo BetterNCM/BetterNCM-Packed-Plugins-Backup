@@ -455,6 +455,17 @@
         "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
     },
     {
+        "name": "PluginMarket",
+        "author": "BetterNCM",
+        "version": "0.5.0",
+        "slug": "PluginMarket",
+        "update_time": 1680372961,
+        "publish_time": 1680372961,
+        "repo": "BetterNCM/Plugin-Market",
+        "file": "PluginMarket-0.5.0.plugin",
+        "file-url": "plugins/PluginMarket-0.5.0.plugin"
+    },
+    {
         "name": "ReLive",
         "author": "Flysoft",
         "version": "0.5.3",

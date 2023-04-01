@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 99,
+        "stars": 101,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -357,7 +357,7 @@
         "update_time": 1680272545,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 9,
+        "stars": 10,
         "file": "LyricBar-0.3.3.plugin",
         "file-url": "plugins/LyricBar-0.3.3.plugin"
     },
@@ -500,7 +500,7 @@
         "update_time": 1680109245,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 179,
+        "stars": 180,
         "file": "RefinedNowPlaying-2.16.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.16.4.plugin"
     },
@@ -653,7 +653,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.5.6",
+        "version": "1.5.7",
         "description": "在任务栏上嵌入歌词，目前仅建议Windows 11（修好了用不了的问题~",
         "requirements": [
             "liblyric"
@@ -664,12 +664,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1679499755,
+        "update_time": 1680351902,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 44,
-        "file": "Taskbar-Lyrics-1.5.6.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.5.6.plugin"
+        "file": "Taskbar-Lyrics-1.5.7.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.5.7.plugin"
     },
     {
         "name": "明/暗主题切换器",

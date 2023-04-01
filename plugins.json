@@ -457,14 +457,16 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.5.1",
+        "version": "0.5.2",
         "hide": true,
+        "force-update": "*",
+        "force-install": true,
         "slug": "PluginMarket",
-        "update_time": 1680373588,
+        "update_time": 1680375492,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
-        "file": "PluginMarket-0.5.1.plugin",
-        "file-url": "plugins/PluginMarket-0.5.1.plugin"
+        "file": "PluginMarket-0.5.2.plugin",
+        "file-url": "plugins/PluginMarket-0.5.2.plugin"
     },
     {
         "name": "ReLive",

@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 101,
+        "stars": 103,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -342,7 +342,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.3.3",
+        "version": "0.3.4",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -354,12 +354,12 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1680272545,
+        "update_time": 1680441297,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
         "stars": 10,
-        "file": "LyricBar-0.3.3.plugin",
-        "file-url": "plugins/LyricBar-0.3.3.plugin"
+        "file": "LyricBar-0.3.4.plugin",
+        "file-url": "plugins/LyricBar-0.3.4.plugin"
     },
     {
         "name": "Material You",
@@ -379,7 +379,7 @@
         "update_time": 1680370762,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 91,
+        "stars": 92,
         "file": "MaterialYouTheme-2.6.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.6.4.plugin"
     },
@@ -498,7 +498,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.16.4",
+        "version": "2.16.5",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -511,12 +511,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1680109245,
+        "update_time": 1680444703,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 180,
-        "file": "RefinedNowPlaying-2.16.4.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.16.4.plugin"
+        "stars": 184,
+        "file": "RefinedNowPlaying-2.16.5.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.16.5.plugin"
     },
     {
         "name": "纯净分享链接",

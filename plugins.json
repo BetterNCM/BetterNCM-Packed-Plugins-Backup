@@ -465,8 +465,8 @@
         "update_time": 1680375492,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
-        "file": "PluginMarket-0.5.2.plugin",
-        "file-url": "plugins/PluginMarket-0.5.2.plugin"
+        "file": "PluginMarket.plugin",
+        "file-url": "plugins/PluginMarket.plugin"
     },
     {
         "name": "ReLive",

@@ -422,7 +422,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 17,
+        "stars": 18,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -498,7 +498,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.16.5",
+        "version": "2.16.6",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -511,12 +511,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1680444703,
+        "update_time": 1680544214,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 184,
-        "file": "RefinedNowPlaying-2.16.5.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.16.5.plugin"
+        "stars": 186,
+        "file": "RefinedNowPlaying-2.16.6.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.16.6.plugin"
     },
     {
         "name": "纯净分享链接",

@@ -36,7 +36,7 @@
         "update_time": 1676315556,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 103,
+        "stars": 105,
         "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
     },
@@ -64,17 +64,17 @@
     {
         "name": "BGEnhanced",
         "author": "MicroBlock",
-        "version": "0.2.11",
+        "version": "0.2.12",
         "description": "自定义网易云背景！（需安装任意主题）",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/BGEnhanced.png",
         "slug": "BGEnhanced",
-        "update_time": 1679193966,
+        "update_time": 1680621277,
         "publish_time": 1670425948,
         "repo": "BetterNCM/BGEnhanced",
         "stars": 15,
-        "file": "BGEnhanced-0.2.11.plugin",
-        "file-url": "plugins/BGEnhanced-0.2.11.plugin"
+        "file": "BGEnhanced-0.2.12.plugin",
+        "file-url": "plugins/BGEnhanced-0.2.12.plugin"
     },
     {
         "name": "CrashFix",
@@ -514,7 +514,7 @@
         "update_time": 1680544214,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 186,
+        "stars": 189,
         "file": "RefinedNowPlaying-2.16.6.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.16.6.plugin"
     },
@@ -638,17 +638,17 @@
     {
         "name": "StyleSnippet",
         "author": "MicroBlock",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "description": "界面美化 CSS 片段，支持本地一键修改，应用。",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/StyleSnippet.png",
         "slug": "StyleSnippet",
-        "update_time": 1676203381,
+        "update_time": 1680617660,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
         "stars": 5,
-        "file": "StyleSnippet-0.2.0.plugin",
-        "file-url": "plugins/StyleSnippet-0.2.0.plugin"
+        "file": "StyleSnippet-0.2.1.plugin",
+        "file-url": "plugins/StyleSnippet-0.2.1.plugin"
     },
     {
         "name": "StylesheetLoader",

@@ -163,17 +163,17 @@
     {
         "name": "FluentProgressBar",
         "author": "MicroBlock & Solstice23",
-        "version": "0.2.0",
+        "version": "1.0.0",
         "description": "让你的进度条更顺滑！",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentProgressBar.png",
         "slug": "FluentProgressBar",
-        "update_time": 1675610797,
+        "update_time": 1680678829,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
         "stars": 7,
-        "file": "FluentProgressBar-0.2.0.plugin",
-        "file-url": "plugins/FluentProgressBar-0.2.0.plugin"
+        "file": "FluentProgressBar-1.0.0.plugin",
+        "file-url": "plugins/FluentProgressBar-1.0.0.plugin"
     },
     {
         "name": "GPT Trans",

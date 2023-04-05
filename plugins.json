@@ -455,6 +455,19 @@
         "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
     },
     {
+        "name": "PlaybackRate",
+        "author": "MicroBlock",
+        "version": "0.1.0",
+        "description": "快放，慢放，倒放",
+        "betterncm_version": ">=0.2.5",
+        "slug": "PlaybackRate",
+        "update_time": 1680685763,
+        "publish_time": 1680685763,
+        "repo": "BetterNCM/PlaybackRate",
+        "file": "PlaybackRate-0.1.0.plugin",
+        "file-url": "plugins/PlaybackRate-0.1.0.plugin"
+    },
+    {
         "name": "PluginMarket",
         "author": "BetterNCM",
         "version": "0.5.2",
@@ -514,7 +527,7 @@
         "update_time": 1680544214,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 189,
+        "stars": 190,
         "file": "RefinedNowPlaying-2.16.6.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.16.6.plugin"
     },
@@ -570,7 +583,7 @@
         "update_time": 1679205848,
         "publish_time": 1674390502,
         "repo": "BetterNCM/RuLyric",
-        "stars": 9,
+        "stars": 10,
         "native": true,
         "file": "RuLyrics-0.3.4.plugin",
         "file-url": "plugins/RuLyrics-0.3.4.plugin"
@@ -681,7 +694,7 @@
         "update_time": 1680351902,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 44,
+        "stars": 45,
         "file": "Taskbar-Lyrics-1.5.7.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.7.plugin"
     },

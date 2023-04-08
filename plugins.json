@@ -32,7 +32,7 @@
         "update_time": 1680956636,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 108,
+        "stars": 109,
         "file": "Apple-Musiclike-lyrics-2.0.1.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.1.plugin"
     },
@@ -159,17 +159,17 @@
     {
         "name": "FluentProgressBar",
         "author": "MicroBlock & Solstice23",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "让你的进度条更顺滑！",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/FluentProgressBar.png",
         "slug": "FluentProgressBar",
-        "update_time": 1680678829,
+        "update_time": 1680972288,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
         "stars": 8,
-        "file": "FluentProgressBar-1.0.0.plugin",
-        "file-url": "plugins/FluentProgressBar-1.0.0.plugin"
+        "file": "FluentProgressBar-1.0.1.plugin",
+        "file-url": "plugins/FluentProgressBar-1.0.1.plugin"
     },
     {
         "name": "GPT Trans",
@@ -677,8 +677,8 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.5.7",
-        "description": "在任务栏上嵌入歌词，目前仅建议Windows 11（修好了用不了的问题~",
+        "version": "1.6.0",
+        "description": "在任务栏上嵌入歌词，目前仅建议Windows 11，且任务栏未被第三方软件修改",
         "requirements": [
             "liblyric"
         ],
@@ -688,12 +688,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1680351902,
+        "update_time": 1680972298,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 47,
-        "file": "Taskbar-Lyrics-1.5.7.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.5.7.plugin"
+        "file": "Taskbar-Lyrics-1.6.0.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.6.0.plugin"
     },
     {
         "name": "明/暗主题切换器",

@@ -16,12 +16,8 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "1.8.7",
-        "description": "一个基于 BetterNCM 的类 Apple Music 歌词显示插件",
-        "requirements": [
-            "libsonginfo",
-            "liblyric"
-        ],
+        "version": "2.0.1",
+        "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
         "author_links": [
@@ -33,12 +29,12 @@
             "RefinedNowPlaying"
         ],
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1676315556,
+        "update_time": 1680956636,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 105,
-        "file": "Apple-Musiclike-lyrics-1.8.7.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-1.8.7.plugin"
+        "stars": 107,
+        "file": "Apple-Musiclike-lyrics-2.0.1.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.1.plugin"
     },
     {
         "name": "Ark Theme",
@@ -138,7 +134,7 @@
         "update_time": 1679233995,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
-        "stars": 8,
+        "stars": 9,
         "file": "elaina-theme-0.2.18.plugin",
         "file-url": "plugins/elaina-theme-0.2.18.plugin"
     },
@@ -171,7 +167,7 @@
         "update_time": 1680678829,
         "publish_time": 1673458219,
         "repo": "BetterNCM/FluentProgessBar",
-        "stars": 7,
+        "stars": 8,
         "file": "FluentProgressBar-1.0.0.plugin",
         "file-url": "plugins/FluentProgressBar-1.0.0.plugin"
     },
@@ -357,7 +353,7 @@
         "update_time": 1680441297,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 10,
+        "stars": 11,
         "file": "LyricBar-0.3.4.plugin",
         "file-url": "plugins/LyricBar-0.3.4.plugin"
     },
@@ -464,6 +460,7 @@
         "update_time": 1680685763,
         "publish_time": 1680685763,
         "repo": "BetterNCM/PlaybackRate",
+        "stars": 1,
         "file": "PlaybackRate-0.1.0.plugin",
         "file-url": "plugins/PlaybackRate-0.1.0.plugin"
     },
@@ -527,7 +524,7 @@
         "update_time": 1680544214,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 190,
+        "stars": 194,
         "file": "RefinedNowPlaying-2.16.6.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.16.6.plugin"
     },
@@ -694,7 +691,7 @@
         "update_time": 1680351902,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 45,
+        "stars": 47,
         "file": "Taskbar-Lyrics-1.5.7.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.5.7.plugin"
     },

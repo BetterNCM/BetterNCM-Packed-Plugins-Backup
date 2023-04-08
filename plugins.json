@@ -548,21 +548,6 @@
         "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
     },
     {
-        "name": "RevivedUnblockInstaller",
-        "author": "RevivedUnblockInstaller",
-        "version": "1.0.0",
-        "description": "RevivedUnblockInstaller",
-        "betterncm_version": ">=0.2.5",
-        "preview": "previews/RevivedUnblockInstaller.png",
-        "slug": "RevivedUnblockInstaller",
-        "update_time": 1680957433,
-        "publish_time": 1680957433,
-        "repo": "ReviveUnblockNCMInstaller/RevivedUnblockInstaller",
-        "stars": 1,
-        "file": "RevivedUnblockInstaller-1.0.0.plugin",
-        "file-url": "plugins/RevivedUnblockInstaller-1.0.0.plugin"
-    },
-    {
         "name": "RoundCornerNCM",
         "author": "MicroBlock",
         "version": "0.1.2",

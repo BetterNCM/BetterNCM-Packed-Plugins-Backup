@@ -508,7 +508,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.16.6",
+        "version": "2.17.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -521,12 +521,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1680544214,
+        "update_time": 1680980065,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
         "stars": 194,
-        "file": "RefinedNowPlaying-2.16.6.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.16.6.plugin"
+        "file": "RefinedNowPlaying-2.17.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.17.0.plugin"
     },
     {
         "name": "纯净分享链接",

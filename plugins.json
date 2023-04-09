@@ -453,16 +453,16 @@
     {
         "name": "PlaybackRate",
         "author": "MicroBlock",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "快放，慢放，倒放",
         "betterncm_version": ">=0.2.5",
         "slug": "PlaybackRate",
-        "update_time": 1680685763,
+        "update_time": 1681024302,
         "publish_time": 1680685763,
         "repo": "BetterNCM/PlaybackRate",
         "stars": 1,
-        "file": "PlaybackRate-0.1.0.plugin",
-        "file-url": "plugins/PlaybackRate-0.1.0.plugin"
+        "file": "PlaybackRate-0.1.1.plugin",
+        "file-url": "plugins/PlaybackRate-0.1.1.plugin"
     },
     {
         "name": "PluginMarket",

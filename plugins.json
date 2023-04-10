@@ -16,7 +16,7 @@
     {
         "name": "Apple Music-like lyrics",
         "author": "SteveXMH",
-        "version": "2.0.1",
+        "version": "2.0.2",
         "description": "类 Apple Music 歌词页面插件|近乎完美的 Apple Music 歌词体验",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/Apple-Musiclike-lyrics.svg",
@@ -29,12 +29,12 @@
             "RefinedNowPlaying"
         ],
         "slug": "Apple-Musiclike-lyrics",
-        "update_time": 1680956636,
+        "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 110,
-        "file": "Apple-Musiclike-lyrics-2.0.1.plugin",
-        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.1.plugin"
+        "stars": 112,
+        "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
+        "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
     {
         "name": "Ark Theme",
@@ -320,7 +320,7 @@
         "update_time": 1679128697,
         "publish_time": 1679128697,
         "repo": "BetterNCM/list-scroll-fix",
-        "stars": 2,
+        "stars": 3,
         "file": "list-scroll-fix-0.1.0.plugin",
         "file-url": "plugins/list-scroll-fix-0.1.0.plugin"
     },
@@ -375,7 +375,7 @@
         "update_time": 1680370762,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 94,
+        "stars": 93,
         "file": "MaterialYouTheme-2.6.4.plugin",
         "file-url": "plugins/MaterialYouTheme-2.6.4.plugin"
     },
@@ -524,7 +524,7 @@
         "update_time": 1680980065,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 195,
+        "stars": 197,
         "file": "RefinedNowPlaying-2.17.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.17.0.plugin"
     },
@@ -641,7 +641,7 @@
         "update_time": 1680277456,
         "publish_time": 1673713908,
         "repo": "BetterNCM/SimpleAudioVisualizer",
-        "stars": 6,
+        "stars": 7,
         "file": "SimpleAudioVisualizer-0.1.3.plugin",
         "file-url": "plugins/SimpleAudioVisualizer-0.1.3.plugin"
     },
@@ -656,7 +656,7 @@
         "update_time": 1680617660,
         "publish_time": 1672601649,
         "repo": "BetterNCM/StyleSnippet",
-        "stars": 5,
+        "stars": 6,
         "file": "StyleSnippet-0.2.1.plugin",
         "file-url": "plugins/StyleSnippet-0.2.1.plugin"
     },

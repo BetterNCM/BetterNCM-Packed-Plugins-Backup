@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 112,
+        "stars": 113,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -221,7 +221,7 @@
         "update_time": 1679677392,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
-        "stars": 8,
+        "stars": 9,
         "native": true,
         "file": "InfLink-0.1.8.plugin",
         "file-url": "plugins/InfLink-0.1.8.plugin"
@@ -360,7 +360,7 @@
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.6.4",
+        "version": "2.7.0",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -372,12 +372,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1680370762,
+        "update_time": 1681318800,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 93,
-        "file": "MaterialYouTheme-2.6.4.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.6.4.plugin"
+        "file": "MaterialYouTheme-2.7.0.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.7.0.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -395,7 +395,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 11,
+        "stars": 12,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -460,7 +460,7 @@
         "update_time": 1681024302,
         "publish_time": 1680685763,
         "repo": "BetterNCM/PlaybackRate",
-        "stars": 1,
+        "stars": 2,
         "file": "PlaybackRate-0.1.1.plugin",
         "file-url": "plugins/PlaybackRate-0.1.1.plugin"
     },
@@ -724,7 +724,7 @@
         "update_time": 1679725086,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 4,
+        "stars": 5,
         "file": "TinyNCM-1.0.0.plugin",
         "file-url": "plugins/TinyNCM-1.0.0.plugin"
     },

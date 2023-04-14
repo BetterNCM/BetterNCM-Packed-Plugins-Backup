@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 113,
+        "stars": 114,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -467,12 +467,12 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.5.2",
+        "version": "0.5.3",
         "hide": true,
         "force-update": "*",
         "force-install": true,
         "slug": "PluginMarket",
-        "update_time": 1680375492,
+        "update_time": 1681463633,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
         "file": "PluginMarket.plugin",

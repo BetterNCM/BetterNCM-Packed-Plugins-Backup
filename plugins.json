@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 115,
+        "stars": 116,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -152,7 +152,7 @@
         "update_time": 1679498164,
         "publish_time": 1679121837,
         "repo": "BetterNCM/FluentMusicCover",
-        "stars": 1,
+        "stars": 2,
         "file": "FluentMusicCover-1.1.4.plugin",
         "file-url": "plugins/FluentMusicCover-1.1.4.plugin"
     },
@@ -174,7 +174,7 @@
     {
         "name": "GPT Trans",
         "author": "solstice23",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "description": "使用 ChatGPT 翻译歌词",
         "requirements": [
             "RefinedNowPlaying"
@@ -186,12 +186,12 @@
         ],
         "type": "extension",
         "slug": "GPTTrans",
-        "update_time": 1680020859,
+        "update_time": 1681578714,
         "publish_time": 1678367766,
         "repo": "solstice23/gpt-trans-netease",
         "stars": 8,
-        "file": "GPTTrans-0.4.0.plugin",
-        "file-url": "plugins/GPTTrans-0.4.0.plugin"
+        "file": "GPTTrans-0.4.1.plugin",
+        "file-url": "plugins/GPTTrans-0.4.1.plugin"
     },
     {
         "name": "HideScrollbar",
@@ -438,17 +438,17 @@
     {
         "name": "Play with Bilibili MV",
         "author": "MicroBlock",
-        "version": "1.0.2",
+        "version": "1.1.0",
         "description": "自动在背景播放 Bilibili MV",
         "requirements": [],
         "preview": "previews/play-with-bilibili.png",
         "slug": "play-with-bilibili",
-        "update_time": 1679128429,
+        "update_time": 1681582583,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
         "stars": 4,
-        "file": "play-with-bilibili-1.0.2.plugin",
-        "file-url": "plugins/play-with-bilibili-1.0.2.plugin"
+        "file": "play-with-bilibili-1.1.0.plugin",
+        "file-url": "plugins/play-with-bilibili-1.1.0.plugin"
     },
     {
         "name": "PlaybackRate",
@@ -524,7 +524,7 @@
         "update_time": 1680980065,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 197,
+        "stars": 198,
         "file": "RefinedNowPlaying-2.17.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.17.0.plugin"
     },

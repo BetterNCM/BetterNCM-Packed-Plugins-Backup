@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 114,
+        "stars": 115,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -375,7 +375,7 @@
         "update_time": 1681318800,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 93,
+        "stars": 94,
         "file": "MaterialYouTheme-2.7.0.plugin",
         "file-url": "plugins/MaterialYouTheme-2.7.0.plugin"
     },
@@ -395,7 +395,7 @@
         "update_time": 1675509124,
         "publish_time": 1670425948,
         "repo": "miku3333/miku-plugin",
-        "stars": 12,
+        "stars": 11,
         "file": "MikuPlugin-0.1.2.plugin",
         "file-url": "plugins/MikuPlugin-0.1.2.plugin"
     },
@@ -453,16 +453,16 @@
     {
         "name": "PlaybackRate",
         "author": "MicroBlock",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "description": "快放，慢放，倒放",
         "betterncm_version": ">=0.2.5",
         "slug": "PlaybackRate",
-        "update_time": 1681024302,
+        "update_time": 1681542740,
         "publish_time": 1680685763,
         "repo": "BetterNCM/PlaybackRate",
         "stars": 2,
-        "file": "PlaybackRate-0.1.1.plugin",
-        "file-url": "plugins/PlaybackRate-0.1.1.plugin"
+        "file": "PlaybackRate-0.1.2.plugin",
+        "file-url": "plugins/PlaybackRate-0.1.2.plugin"
     },
     {
         "name": "PluginMarket",

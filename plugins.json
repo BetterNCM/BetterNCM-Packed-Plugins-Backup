@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 118,
+        "stars": 120,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -446,7 +446,7 @@
         "update_time": 1681582583,
         "publish_time": 1678598537,
         "repo": "BetterNCM/PlayWithBilibili",
-        "stars": 6,
+        "stars": 7,
         "file": "play-with-bilibili-1.1.0.plugin",
         "file-url": "plugins/play-with-bilibili-1.1.0.plugin"
     },
@@ -508,7 +508,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.18.2",
+        "version": "2.19.0",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -521,12 +521,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1681827391,
+        "update_time": 1682005770,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 202,
-        "file": "RefinedNowPlaying-2.18.2.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.18.2.plugin"
+        "stars": 205,
+        "file": "RefinedNowPlaying-2.19.0.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.19.0.plugin"
     },
     {
         "name": "纯净分享链接",

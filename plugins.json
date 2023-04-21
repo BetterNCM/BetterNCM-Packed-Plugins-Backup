@@ -467,12 +467,12 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.6.1",
+        "version": "0.6.2",
         "hide": true,
         "force-update": "*",
         "force-install": true,
         "slug": "PluginMarket",
-        "update_time": 1681590802,
+        "update_time": 1682101043,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
         "file": "PluginMarket.plugin",
@@ -524,7 +524,7 @@
         "update_time": 1682005770,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 206,
+        "stars": 207,
         "file": "RefinedNowPlaying-2.19.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.0.plugin"
     },

@@ -524,7 +524,7 @@
         "update_time": 1682005770,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 205,
+        "stars": 206,
         "file": "RefinedNowPlaying-2.19.0.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.0.plugin"
     },
@@ -677,7 +677,7 @@
     {
         "name": "任务栏歌词",
         "author": "沫烬染",
-        "version": "1.6.1",
+        "version": "1.6.2",
         "description": "在任务栏上嵌入歌词，目前仅建议Windows 11，且任务栏未被第三方软件修改",
         "requirements": [
             "liblyric"
@@ -688,12 +688,12 @@
         ],
         "type": "extension",
         "slug": "Taskbar-Lyrics",
-        "update_time": 1681041466,
+        "update_time": 1682075522,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
         "stars": 48,
-        "file": "Taskbar-Lyrics-1.6.1.plugin",
-        "file-url": "plugins/Taskbar-Lyrics-1.6.1.plugin"
+        "file": "Taskbar-Lyrics-1.6.2.plugin",
+        "file-url": "plugins/Taskbar-Lyrics-1.6.2.plugin"
     },
     {
         "name": "明/暗主题切换器",

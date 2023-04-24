@@ -508,7 +508,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.19.2",
+        "version": "2.19.3",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -521,12 +521,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1682185261,
+        "update_time": 1682353826,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 209,
-        "file": "RefinedNowPlaying-2.19.2.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.19.2.plugin"
+        "stars": 215,
+        "file": "RefinedNowPlaying-2.19.3.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.19.3.plugin"
     },
     {
         "name": "纯净分享链接",
@@ -691,7 +691,7 @@
         "update_time": 1682075522,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 49,
+        "stars": 50,
         "file": "Taskbar-Lyrics-1.6.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.2.plugin"
     },

@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 120,
+        "stars": 121,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -524,7 +524,7 @@
         "update_time": 1682353826,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 215,
+        "stars": 218,
         "file": "RefinedNowPlaying-2.19.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.3.plugin"
     },
@@ -691,7 +691,7 @@
         "update_time": 1682075522,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 50,
+        "stars": 51,
         "file": "Taskbar-Lyrics-1.6.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.2.plugin"
     },
@@ -782,16 +782,16 @@
     {
         "name": "VocaloidInfo",
         "author": "samyyc",
-        "version": "1.1.4",
+        "version": "1.1.5",
         "description": "通过VocaDB/Bilibili获取vocaloid歌曲数据并显示",
         "preview": "previews/vocaloid-info.png",
         "slug": "vocaloid-info",
-        "update_time": 1679498181,
+        "update_time": 1682435708,
         "publish_time": 1679230174,
         "repo": "samyycX/VocaloidInfo",
         "stars": 2,
-        "file": "vocaloid-info-1.1.4.plugin",
-        "file-url": "plugins/vocaloid-info-1.1.4.plugin"
+        "file": "vocaloid-info-1.1.5.plugin",
+        "file-url": "plugins/vocaloid-info-1.1.5.plugin"
     },
     {
         "name": "这首歌的封面是什么？",

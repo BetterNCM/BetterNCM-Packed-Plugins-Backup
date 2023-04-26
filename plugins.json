@@ -125,18 +125,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.18",
-        "description": "Elaina elements & Collection of functions.",
+        "version": "0.2.19",
+        "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1679233995,
+        "update_time": 1682547168,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 9,
-        "file": "elaina-theme-0.2.18.plugin",
-        "file-url": "plugins/elaina-theme-0.2.18.plugin"
+        "file": "elaina-theme-0.2.19.plugin",
+        "file-url": "plugins/elaina-theme-0.2.19.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -418,7 +418,7 @@
         "update_time": 1679160831,
         "publish_time": 1670425948,
         "repo": "mo-jinran/MoTheme",
-        "stars": 18,
+        "stars": 19,
         "file": "MoTheme-1.2.3.plugin",
         "file-url": "plugins/MoTheme-1.2.3.plugin"
     },
@@ -524,7 +524,7 @@
         "update_time": 1682353826,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 218,
+        "stars": 219,
         "file": "RefinedNowPlaying-2.19.3.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.3.plugin"
     },

@@ -125,18 +125,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.19",
+        "version": "0.2.20",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1682547168,
+        "update_time": 1682782225,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 9,
-        "file": "elaina-theme-0.2.19.plugin",
-        "file-url": "plugins/elaina-theme-0.2.19.plugin"
+        "file": "elaina-theme-0.2.20.plugin",
+        "file-url": "plugins/elaina-theme-0.2.20.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -546,6 +546,22 @@
         "stars": 3,
         "file": "remove-tracking-attribute-1.0.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
+    },
+    {
+        "name": "RevivedSource",
+        "author": "Revived@Unblocked",
+        "version": "0.1.0",
+        "description": "向插件商店中添加 Revive 源，包含无法上架至插件商店的某些插件。",
+        "requirements": [],
+        "betterncm_version": ">=1.0.0",
+        "preview": "previews/RevivedSource.svg",
+        "type": "extension",
+        "slug": "RevivedSource",
+        "update_time": 1682782235,
+        "publish_time": 1682782235,
+        "repo": "ReviveUnblockNCMInstaller/RevivedSource",
+        "file": "RevivedSource-0.1.0.plugin",
+        "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },
     {
         "name": "RoundCornerNCM",

@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 121,
+        "stars": 120,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -508,7 +508,7 @@
     {
         "name": "RefinedNowPlaying",
         "author": "solstice23",
-        "version": "2.19.3",
+        "version": "2.19.4",
         "description": "重新设计的正在播放页面和歌词",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
@@ -521,12 +521,12 @@
             "Apple-Musiclike-lyrics"
         ],
         "slug": "RefinedNowPlaying",
-        "update_time": 1682353826,
+        "update_time": 1682745187,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 219,
-        "file": "RefinedNowPlaying-2.19.3.plugin",
-        "file-url": "plugins/RefinedNowPlaying-2.19.3.plugin"
+        "stars": 221,
+        "file": "RefinedNowPlaying-2.19.4.plugin",
+        "file-url": "plugins/RefinedNowPlaying-2.19.4.plugin"
     },
     {
         "name": "纯净分享链接",
@@ -543,7 +543,7 @@
         "update_time": 1676985392,
         "publish_time": 1676985392,
         "repo": "BetterNCM/RemoveTrackingAttribute",
-        "stars": 4,
+        "stars": 3,
         "file": "remove-tracking-attribute-1.0.plugin",
         "file-url": "plugins/remove-tracking-attribute-1.0.plugin"
     },
@@ -691,7 +691,7 @@
         "update_time": 1682075522,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 51,
+        "stars": 52,
         "file": "Taskbar-Lyrics-1.6.2.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.2.plugin"
     },

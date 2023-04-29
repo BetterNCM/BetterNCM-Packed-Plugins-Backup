@@ -338,7 +338,7 @@
     {
         "name": "LyricBar",
         "author": "solstice23",
-        "version": "0.3.5",
+        "version": "0.3.6",
         "description": "重新设计的软件内词栏",
         "requirements": [
             "RefinedNowPlaying"
@@ -350,17 +350,17 @@
         ],
         "type": "extension",
         "slug": "LyricBar",
-        "update_time": 1681793324,
+        "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
         "stars": 11,
-        "file": "LyricBar-0.3.5.plugin",
-        "file-url": "plugins/LyricBar-0.3.5.plugin"
+        "file": "LyricBar-0.3.6.plugin",
+        "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.7.1",
+        "version": "2.7.2",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -372,12 +372,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1681748965,
+        "update_time": 1682745181,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
         "stars": 95,
-        "file": "MaterialYouTheme-2.7.1.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.7.1.plugin"
+        "file": "MaterialYouTheme-2.7.2.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.7.2.plugin"
     },
     {
         "name": "MikuPlugin",

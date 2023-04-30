@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 120,
+        "stars": 121,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -213,18 +213,18 @@
     {
         "name": "InfLink",
         "author": "MicroBlock",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "连接各种歌曲信息协议\n目前：SMTC（Windows自带）, Discord Rich Presence",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/InfLink.png",
         "slug": "InfLink",
-        "update_time": 1682794735,
+        "update_time": 1682831544,
         "publish_time": 1673372080,
         "repo": "BetterNCM/InfinityLink",
         "stars": 9,
         "native": true,
-        "file": "InfLink-1.0.0.plugin",
-        "file-url": "plugins/InfLink-1.0.0.plugin"
+        "file": "InfLink-1.0.1.plugin",
+        "file-url": "plugins/InfLink-1.0.1.plugin"
     },
     {
         "name": "LibEAPIRequest",

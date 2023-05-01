@@ -353,14 +353,14 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 11,
+        "stars": 10,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
     {
         "name": "Material You",
         "author": "solstice23",
-        "version": "2.7.2",
+        "version": "2.8.0",
         "description": "Material You 主题 | 支持切换配色 | 动态取色 | 支持背景",
         "requirements": [
             "list-scroll-fix"
@@ -372,12 +372,12 @@
         ],
         "type": "theme",
         "slug": "MaterialYouTheme",
-        "update_time": 1682745181,
+        "update_time": 1682906932,
         "publish_time": 1671567641,
         "repo": "solstice23/material-you-theme-netease",
-        "stars": 95,
-        "file": "MaterialYouTheme-2.7.2.plugin",
-        "file-url": "plugins/MaterialYouTheme-2.7.2.plugin"
+        "stars": 96,
+        "file": "MaterialYouTheme-2.8.0.plugin",
+        "file-url": "plugins/MaterialYouTheme-2.8.0.plugin"
     },
     {
         "name": "MikuPlugin",
@@ -524,7 +524,7 @@
         "update_time": 1682745187,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 221,
+        "stars": 222,
         "file": "RefinedNowPlaying-2.19.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.4.plugin"
     },

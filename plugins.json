@@ -2,16 +2,16 @@
     {
         "name": "ActionEnhancement",
         "author": "MicroBlock",
-        "version": "0.1.6",
-        "description": "右键“分享”复制歌曲ID，鼠标在声音图标上滚轮调节音量",
+        "version": "0.1.7",
+        "description": "右键“分享”复制歌曲ID，右键“下载”打开歌曲外链，鼠标在声音图标上滚轮调节音量",
         "betterncm_version": ">=0.2.5",
         "preview": "previews/ActionEnhancement.png",
         "slug": "ActionEnhancement",
-        "update_time": 1675522630,
+        "update_time": 1682921901,
         "publish_time": 1670980621,
         "repo": "BetterNCM/ActionEnhancement",
-        "file": "ActionEnhancement-0.1.6.plugin",
-        "file-url": "plugins/ActionEnhancement-0.1.6.plugin"
+        "file": "ActionEnhancement-0.1.7.plugin",
+        "file-url": "plugins/ActionEnhancement-0.1.7.plugin"
     },
     {
         "name": "Apple Music-like lyrics",
@@ -524,7 +524,7 @@
         "update_time": 1682745187,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 222,
+        "stars": 223,
         "file": "RefinedNowPlaying-2.19.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.4.plugin"
     },
@@ -560,6 +560,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
+        "stars": 1,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },

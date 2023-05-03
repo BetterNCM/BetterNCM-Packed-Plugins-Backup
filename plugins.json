@@ -468,12 +468,12 @@
     {
         "name": "PluginMarket",
         "author": "BetterNCM",
-        "version": "0.6.2",
+        "version": "0.6.3",
         "hide": true,
         "force-update": "*",
         "force-install": true,
         "slug": "PluginMarket",
-        "update_time": 1682101043,
+        "update_time": 1683122446,
         "publish_time": 1680372961,
         "repo": "BetterNCM/Plugin-Market",
         "file": "PluginMarket.plugin",
@@ -561,7 +561,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 2,
+        "stars": 3,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },

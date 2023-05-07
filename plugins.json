@@ -354,7 +354,7 @@
         "update_time": 1682745175,
         "publish_time": 1677935011,
         "repo": "solstice23/lyric-bar-netease",
-        "stars": 10,
+        "stars": 11,
         "file": "LyricBar-0.3.6.plugin",
         "file-url": "plugins/LyricBar-0.3.6.plugin"
     },
@@ -482,7 +482,7 @@
     {
         "name": "ReLive",
         "author": "Flysoft",
-        "version": "0.5.3",
+        "version": "0.6.0",
         "description": "ReLive 主题 | 支持亮暗色切换 | 支持 BGEnhanced | 修改自 Ark Theme",
         "requirements": [
             "RefinedNowPlaying",
@@ -499,12 +499,12 @@
             "light-dark-theme-switcher"
         ],
         "slug": "relive-theme",
-        "update_time": 1679718724,
+        "update_time": 1683442338,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
         "stars": 8,
-        "file": "relive-theme-0.5.3.plugin",
-        "file-url": "plugins/relive-theme-0.5.3.plugin"
+        "file": "relive-theme-0.6.0.plugin",
+        "file-url": "plugins/relive-theme-0.6.0.plugin"
     },
     {
         "name": "RefinedNowPlaying",
@@ -525,7 +525,7 @@
         "update_time": 1682745187,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 226,
+        "stars": 228,
         "file": "RefinedNowPlaying-2.19.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.4.plugin"
     },
@@ -709,7 +709,7 @@
         "update_time": 1683189838,
         "publish_time": 1673622993,
         "repo": "mo-jinran/Taskbar-Lyrics",
-        "stars": 55,
+        "stars": 59,
         "file": "Taskbar-Lyrics-1.6.3.plugin",
         "file-url": "plugins/Taskbar-Lyrics-1.6.3.plugin"
     },
@@ -742,7 +742,7 @@
         "update_time": 1679725086,
         "publish_time": 1670689230,
         "repo": "BetterNCM/TinyNCM",
-        "stars": 5,
+        "stars": 6,
         "file": "TinyNCM-1.0.0.plugin",
         "file-url": "plugins/TinyNCM-1.0.0.plugin"
     },

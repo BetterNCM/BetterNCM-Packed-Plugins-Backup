@@ -833,10 +833,10 @@
         "file-url": "plugins/What-is-the-cover-of-this-music-2.0.8.plugin"
     },
     {
-        "name": "←→0123456789JL+-,.↑↓F",
+        "name": "←→0123456789JL+-,.↑↓FO",
         "author": "solstice23",
-        "version": "0.1.0",
-        "description": "使用 ←→ 快退快进，0-9 跳转进度，+- 切换曲目，↑↓ 调整音量，,. 跳到开始和结尾，F 全屏",
+        "version": "0.2.0",
+        "description": "使用 ←→ 快退快进，0-9 跳转进度，+- 切换曲目，↑↓ 调整音量，,. 跳到开始和结尾，F 全屏，O 切换播放顺序",
         "requirements": [],
         "betterncm_version": ">=1.0.0",
         "preview": "previews/keyboard-seek.svg",
@@ -844,12 +844,12 @@
             "https://github.com/solstice23"
         ],
         "slug": "keyboard-seek",
-        "update_time": 1681021628,
+        "update_time": 1683655534,
         "publish_time": 1681021628,
         "repo": "BetterNCM/keyboard-seek",
         "stars": 2,
-        "file": "keyboard-seek-0.1.0.plugin",
-        "file-url": "plugins/keyboard-seek-0.1.0.plugin"
+        "file": "keyboard-seek-0.2.0.plugin",
+        "file-url": "plugins/keyboard-seek-0.2.0.plugin"
     },
     {
         "name": "Microrange",

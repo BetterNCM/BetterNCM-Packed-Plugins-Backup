@@ -32,7 +32,7 @@
         "update_time": 1681125080,
         "publish_time": 1672495988,
         "repo": "Steve-xmh/applemusic-like-lyrics",
-        "stars": 121,
+        "stars": 123,
         "file": "Apple-Musiclike-lyrics-2.0.2.plugin",
         "file-url": "plugins/Apple-Musiclike-lyrics-2.0.2.plugin"
     },
@@ -125,18 +125,18 @@
     {
         "name": "ElainaTheme",
         "author": "keiko233",
-        "version": "0.2.21",
+        "version": "0.2.22",
         "description": "可爱的UI，伊蕾娜元素，还有一点自定义。",
         "betterncm_version": ">=1.0.0",
         "preview": "previews/elaina-theme.png",
         "type": "theme",
         "slug": "elaina-theme",
-        "update_time": 1683046722,
+        "update_time": 1683650721,
         "publish_time": 1676203273,
         "repo": "keiko233/elaina-theme-netease",
         "stars": 9,
-        "file": "elaina-theme-0.2.21.plugin",
-        "file-url": "plugins/elaina-theme-0.2.21.plugin"
+        "file": "elaina-theme-0.2.22.plugin",
+        "file-url": "plugins/elaina-theme-0.2.22.plugin"
     },
     {
         "name": "FluentMusicCover",
@@ -502,7 +502,7 @@
         "update_time": 1683442338,
         "publish_time": 1676203250,
         "repo": "FlysoftBeta/ReLive",
-        "stars": 8,
+        "stars": 10,
         "file": "relive-theme-0.6.0.plugin",
         "file-url": "plugins/relive-theme-0.6.0.plugin"
     },
@@ -525,7 +525,7 @@
         "update_time": 1682745187,
         "publish_time": 1670682028,
         "repo": "solstice23/refined-now-playing-netease",
-        "stars": 228,
+        "stars": 233,
         "file": "RefinedNowPlaying-2.19.4.plugin",
         "file-url": "plugins/RefinedNowPlaying-2.19.4.plugin"
     },
@@ -561,7 +561,7 @@
         "update_time": 1682782235,
         "publish_time": 1682782235,
         "repo": "ReviveUnblockNCMInstaller/RevivedSource",
-        "stars": 4,
+        "stars": 6,
         "file": "RevivedSource-0.1.0.plugin",
         "file-url": "plugins/RevivedSource-0.1.0.plugin"
     },
